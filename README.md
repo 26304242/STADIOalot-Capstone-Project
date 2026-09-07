@@ -14,7 +14,7 @@ Additional costs on individual orders are important to STADIOalot due to the lar
 The provided information pack suggests that certain variables related to customers, products and sellers are associated with returns, however, STADIOalot is not currently using the information these variables provide proactively.
 This project aims to investigate available data, prepare relevant variables for modelling, develop and evaluate an appropriate machine learning model and assess whether the prediction results are reliable and able to provide practical value to STADIOalot. 
 
-#RAAIDD Log:
+# RAAIDD Log:
 | RAAIDD | Project-specific entry |
 |---|---|
 | **Risks** | **R1:** Post-return information may enter the modelling dataset and cause data leakage, making the model appear more accurate than it would be in practice. **R2:** The number of returned orders is expected to be much smaller than non-returned orders, creating class imbalance and potentially causing the model to overlook high-risk returns. |

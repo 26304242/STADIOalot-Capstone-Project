@@ -1,6 +1,6 @@
 # STADIOalot-Capstone-Project
 # Motivation: 
-# STADIOalot is South Africa's largest online retailer by customer count, with approximately 4.1 million customers and approximately 58 million orders per year. Despite the company's impressive scale and excellent recent growth, it still struggles with profitability with an operating margin of 1.9%. Accounting for the operating scale of STADIOalot, it can be understood that small costs associated with individual orders can accumulate into significant losses. 
+STADIOalot is South Africa's largest online retailer by customer count, with approximately 4.1 million customers and approximately 58 million orders per year. Despite the company's impressive scale and excellent recent growth, it still struggles with profitability with an operating margin of 1.9%. Accounting for the operating scale of STADIOalot, it can be understood that small costs associated with individual orders can accumulate into significant losses. 
 
 # One of the most significant challenges STADIOalot is facing, based on the report, is the increasing rate of product returns. The total order return rate has increased from 11% to 15% in the span of  two years while the return on apparel and shoes has notably increased from 22% to 29%. The report indicates that returns can reverse the cost of the original sale and that many returns can be predicted based on factors such as the product, seller and customer purchasing behaviour. These factors are not currently being investigated at the point of purchase. 
 

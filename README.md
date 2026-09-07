@@ -1,8 +1,11 @@
 # STADIOalot-Capstone-Project
 # Motivation: 
 STADIOalot is South Africa's largest online retailer by customer count, with approximately 4.1 million customers and approximately 58 million orders per year. Despite the company's impressive scale and excellent recent growth, it still struggles with profitability with an operating margin of 1.9%. Accounting for the operating scale of STADIOalot, it can be understood that small costs associated with individual orders can accumulate into significant losses. 
+
 One of the most significant challenges STADIOalot is facing, based on the report, is the increasing rate of product returns. The total order return rate has increased from 11% to 15% in the span of  two years while the return on apparel and shoes has notably increased from 22% to 29%. The report indicates that returns can reverse the cost of the original sale and that many returns can be predicted based on factors such as the product, seller and customer purchasing behaviour. These factors are not currently being investigated at the point of purchase. 
+
 To mitigate the costs sustained from returned products, a data science project focusing on predicting the likelihood of order returns could be implemented. As STADIOalot already has structures in place to collect data across customer behaviour, products, orders and returns, a project would create an opportunity to use this existing data to identify patterns assoiciated with returns. Through identifying orders with higher likelihoods of being returned before purchase completion, valuable interventions could be discovered and implemented. Such interventions could include improved product information and more customer-appropriate recommendations. 
+
 This project would be aligned with STADIOalot's 2030 strategy of  'Breaking the returns cycle' by aiming to prevent avoidable returns before purchase completion. By reducing unnecessary returns, this project could reduce logistics costs, improve customer experience and protect profit margins.
 
 # Problem Statement

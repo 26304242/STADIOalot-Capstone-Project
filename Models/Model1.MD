@@ -1,59 +1,16 @@
-# Model 1 – Logistic Regression
+# Model 1 — Logistic Regression
 
-## Objective
+**Notebook:** `Scripts/Models/model1_logistic_regression.ipynb`
 
-The first model is Logistic Regression.
+The notebook reads `engineered_dataset.csv` or `Datasets/Engineered/engineered_dataset.csv`. It excludes `returned` and `order_id` from predictors, performs an 80/20 stratified split with `random_state=42`, imputes numeric/categorical values inside a pipeline, one-hot encodes categorical variables, standardises numeric variables, and fits Logistic Regression.
 
-Logistic Regression is suitable for this project because the target variable is binary:
+**Hyperparameters:** `C=1.0`, `penalty='l2'`, `solver='liblinear'`, `class_weight='balanced'`, `max_iter=1000`, `random_state=42`.
 
-- `returned = 0` = not returned
-- `returned = 1` = returned
+## How to run
+Load the model1_logistic_regression.ipynb script into the directory
 
-The implementation is in:
+Run preprocessing and feature engineering first, then run this notebook from top to bottom.
 
-`models/model1_logistic_regression.py`
+If the repository layout is cloned directly: the input and output data paths can be adjusted accoring to the instructions in the scripts
 
-## Technique
-
-Logistic Regression is used as a relatively simple and interpretable binary-classification model.
-
-Because numerical variables can have different scales, the preprocessing pipeline for this model standardises numerical variables using `StandardScaler`.
-
-## Configuration
-
-```python
-LogisticRegression(
-    C=1.0,
-    penalty='l2',
-    solver='liblinear',
-    max_iter=1000,
-    random_state=42
-)
-```
-
-## Hyperparameters
-
-| Hyperparameter | Value | Purpose |
-|---|---:|---|
-| `C` | `1.0` | Controls regularisation strength |
-| `penalty` | `l2` | Applies L2 regularisation |
-| `solver` | `liblinear` | Suitable for binary classification |
-| `max_iter` | `1000` | Allows sufficient iterations for convergence |
-| `random_state` | `42` | Reproducibility |
-
-## Code and usage
-
-Run from the repository root:
-
-```bash
-python models/model1_logistic_regression.py
-```
-
-The script loads the Logistic Regression preprocessing outputs, trains the model and evaluates it on the held-out test set.
-
-Outputs are saved to:
-
-```text
-data/results/logistic_regression_metrics.txt
-data/results/logistic_regression_model.joblib
-```
+if necessary, upload the engineered_dataset.csv into the same directory before running this script.

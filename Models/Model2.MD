@@ -1,72 +1,16 @@
-# Model 2 – Random Forest Classification
+# Model 2 — Random Forest
 
-## Objective
+**Notebook:** `Scripts/Models/model2_random_forest.ipynb`
 
-The second model is Random Forest Classification.
+The notebook reads `engineered_dataset.csv` or `Datasets/Engineered/engineered_dataset.csv` and uses the same 80/20 stratified split (`random_state=42`). Numeric values are median-imputed and categorical values are one-hot encoded. Numerical scaling is not used because Random Forest does not require it.
 
-Random Forest is valuable because it can model nonlinear relationships and interactions between variables.
+**Hyperparameters:** `n_estimators=300`, `max_features='sqrt'`, `class_weight='balanced'`, `random_state=42`, `n_jobs=-1`.
 
-For example, return probability might depend on a combination of:
+## How to run
+Load the model2_random_forrest.ipynb script into the directory
 
-- product category
-- discount
-- order value
-- delivery time
-- customer behaviour
+Run preprocessing and feature engineering first, then run this notebook from top to bottom.
 
-rather than one variable independently.
+If the repository layout is cloned directly: the input and output data paths can be adjusted accoring to the instructions in the scripts
 
-The implementation is in:
-
-`models/model2_random_forest.py`
-
-## Technique
-
-Random Forest combines multiple decision trees to create an ensemble classification model.
-
-Unlike Logistic Regression, numerical variables do not need to be standardised for Random Forest because tree-based splits are based on thresholds rather than numeric distance measurements.
-
-## Configuration
-
-```python
-RandomForestClassifier(
-    n_estimators=300,
-    max_depth=15,
-    min_samples_split=5,
-    min_samples_leaf=2,
-    max_features='sqrt',
-    class_weight='balanced',
-    random_state=42,
-    n_jobs=-1
-)
-```
-
-## Hyperparameters
-
-| Hyperparameter | Value | Purpose |
-|---|---:|---|
-| `n_estimators` | `300` | Number of trees |
-| `max_depth` | `15` | Limits tree complexity |
-| `min_samples_split` | `5` | Minimum observations needed to split a node |
-| `min_samples_leaf` | `2` | Minimum observations per leaf |
-| `max_features` | `sqrt` | Number of features considered at each split |
-| `class_weight` | `balanced` | Helps account for class imbalance |
-| `random_state` | `42` | Reproducibility |
-| `n_jobs` | `-1` | Uses available CPU cores |
-
-## Code and usage
-
-Run from the repository root:
-
-```bash
-python models/model2_random_forest.py
-```
-
-The script loads the Random Forest preprocessing outputs, trains the model and evaluates it on the held-out test set.
-
-Outputs are saved to:
-
-```text
-data/results/random_forest_metrics.txt
-data/results/random_forest_model.joblib
-```
+if necessary, upload the engineered_dataset.csv into the same directory before running this script.

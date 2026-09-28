@@ -8,5 +8,7 @@ Model-specific imputation, categorical encoding and scaling are not performed gl
 
 ## How to run
 Load the preprocessing.ipynb script and the raw_dataset.csv into the same directory
+
 If the repository layout is cloned directly: the input and output data paths can be adjusted accoring to the instructions in the scripts
+
 Run the notebook from top to bottom.

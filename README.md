@@ -27,8 +27,8 @@ This project aims to investigate available data, prepare relevant variables for 
 ## Part B — Experimental Setup
 - [Preprocessing](Experimental%20setup/Preprocessing.MD)
 - [Feature Engineering](Experimental%20setup/FeatureEngineering.MD)
-- [Model 1 — Logistic Regression](Models/Model1.MD)
-- [Model 2 — Random Forest](Models/Model2.MD)
+- [Model 1: Logistic Regression](Models/Model1.MD)
+- [Model 2: Random Forest](Models/Model2.MD)
 
 ## Part C — Experimental Results
 - [Model 1 Performance](Experimental%20results/Model1Performance.MD)

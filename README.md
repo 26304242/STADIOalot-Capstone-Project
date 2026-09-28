@@ -23,3 +23,28 @@ This project aims to investigate available data, prepare relevant variables for 
 | **Issues** | **I1:** Missing or inconsistent data across STADIOalot's different data sources may affect model reliability. **I2:** Return behaviour may vary considerably by product category, seller and customer, thus, making generalised predictions less reliable for particular groups. |
 | **Decisions** | **D1:** The project will investigate predictive modelling of order returns because STADIOalot's briefing identifies increasing returns as a significantly detrimental to profit development. **D2:** Model selection will prioritise the ability to identify returned orders rather than relying on accuracy alone. |
 | **Dependencies** | **DP1:** Data collection and integration must be completed before cleaning, exploratory analysis and feature engineering. **DP2:** Feature engineering and data preparation must be completed before model training, while model evaluation must be completed before the final model recommendation. |
+
+## Part B — Experimental Setup
+- [Preprocessing](Experimental%20setup/Preprocessing.MD)
+- [Feature Engineering](Experimental%20setup/FeatureEngineering.MD)
+- [Model 1 — Logistic Regression](Models/Model1.MD)
+- [Model 2 — Random Forest](Models/Model2.MD)
+
+## Part C — Experimental Results
+- [Model 1 Performance](Experimental%20results/Model1Performance.MD)
+- [Model 2 Performance](Experimental%20results/Model2Performance.MD)
+- [Comparison](Experimental%20results/Comparison.MD)
+
+## Notebooks
+- `Scripts/Feature Engineering and Preprocessing/preprocessing.ipynb`
+- `Scripts/Feature Engineering and Preprocessing/feature_engineering.ipynb`
+- `Scripts/Models/model1_logistic_regression.ipynb`
+- `Scripts/Models/model2_random_forest.ipynb`
+- `Scripts/Statistical/model1_performance.ipynb`
+- `Scripts/Statistical/model2_performance.ipynb`
+- `Scripts/Comparison/comparison.ipynb`
+- `Scripts/Visualisation/visualisations.ipynb`
+
+## Data flow
+`raw_dataset.csv` → preprocessing → `processed_dataset.csv` → feature engineering → `engineered_dataset.csv` → Model 1 / Model 2 → Part C results.
+

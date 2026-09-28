@@ -45,6 +45,12 @@ This project aims to investigate available data, prepare relevant variables for 
 - `Scripts/Comparison/comparison.ipynb`
 - `Scripts/Visualisation/visualisations.ipynb`
 
+## Data Source
+`raw_dataset.csv` is the downloaded public dataset used for the project.
+The dataset is available from [Kaggle](https://www.kaggle.com/competitions/retail-return-risk-modeling/data) 
+
+If downloaded from the source, rename `train.csv` to `raw_dataset.csv`
+
 ## Data flow
 `raw_dataset.csv` → preprocessing → `processed_dataset.csv` → feature engineering → `engineered_dataset.csv` → Model 1 / Model 2 → Part C results.
 

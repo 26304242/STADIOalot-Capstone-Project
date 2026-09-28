@@ -8,5 +8,7 @@ The output is saved as `engineered_dataset.csv` or `Datasets/Engineered/engineer
 
 ## How to run
 Load the feature_engineering.ipynb script and the processed_dataset.csv into the same directory
+
 If the repository layout is cloned directly: the input and output data paths can be adjusted accoring to the instructions in the scripts
+
 Run preprocessing first, then run this notebook from top to bottom.

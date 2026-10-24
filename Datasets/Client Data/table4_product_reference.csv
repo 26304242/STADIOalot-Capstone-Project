@@ -1,0 +1,1488 @@
+prd_id,category,subcategory,brand,colour,size,list_price,seller_id,product_rating,review_count
+PRD80000,Electronics,Accessories,Solace,Green,,7277.5,SEL00001,4.3,74
+PRD80001,Home & Kitchen,Cookware,Nimbus,Grey,,1039.03,SEL10113,3.1,32
+PRD80002,Baby & Kids,Nursery,Ridgeline,White,XXL,133.73,SEL10166,3.8,25
+PRD80003,Footwear,Slippers,Ironbark,Beige,9,309.39,SEL10203,3.4,62
+PRD80004,Beauty,Fragrance,Solace,White,,1017.33,SEL10048,4.3,90
+PRD80005,Home & Kitchen,Lighting,Ridgeline,Beige,,1569.91,SEL10160,4.4,4
+PRD80006,Baby & Kids,Baby Clothing,Terra,Black,M,542.43,SEL10109,4.4,15
+PRD80007,Footwear,Sandals,Savanna,Black,4,480.6,SEL00001,4.0,22
+PRD80008,Home & Kitchen,Lighting,Aurora,Cream,,427.33,SEL10141,3.3,121
+PRD80009,Footwear,Sneakers,Mzansi Made,Burgundy,5,676.98,SEL10069,3.5,12
+PRD80010,Toys & Games,Puzzles,Bantu,Grey,,101.13,SEL10110,5.0,476
+PRD80011,Electronics,Audio,Ridgeline,Burgundy,,3148.19,SEL00001,4.1,138
+PRD80012,Sports & Outdoor,Team Sports,Lumo,White,,352.61,SEL10201,3.4,34
+PRD80013,Home & Kitchen,Lighting,Petal & Pine,Black,,237.79,SEL10124,4.4,64
+PRD80014,Home & Kitchen,Lighting,Copperfield,Multi,,403.08,SEL10065,4.0,14
+PRD80015,Electronics,Tablets,Ironbark,Navy,,5910.41,SEL10188,4.3,32
+PRD80016,Footwear,Sneakers,Terra,Black,9,1039.25,SEL10209,3.4,15
+PRD80017,Baby & Kids,Nursery,Nordveld,Pink,XS,193.5,SEL10115,3.7,40
+PRD80018,Apparel,Men's Trousers,Ironbark,Olive,L,246.0,SEL10157,2.4,45
+PRD80019,Footwear,Sneakers,Ironbark,Beige,6,429.73,SEL10104,4.8,16
+PRD80020,Footwear,Boots,Nimbus,Green,9,235.14,SEL10210,4.6,5
+PRD80021,Footwear,Sneakers,Petal & Pine,Blue,6,1116.72,SEL10203,4.1,39
+PRD80022,Beauty,Skincare,Aurora,Grey,,89.42,SEL10049,3.7,15
+PRD80023,Apparel,Underwear,Bantu,Red,M,617.49,SEL00001,3.7,49
+PRD80024,Beauty,Fragrance,Terra,Burgundy,,401.47,SEL10150,3.0,28
+PRD80025,Apparel,Activewear,Kestrel,Beige,S,526.76,SEL00001,4.2,15
+PRD80026,Apparel,Women's Dresses,Kestrel,Grey,XL,227.73,SEL00001,2.5,25
+PRD80027,Home & Kitchen,Bedding,Solace,Burgundy,,173.99,SEL10100,4.1,31
+PRD80028,Footwear,Sandals,Bantu,Navy,4,1509.57,SEL10012,4.6,29
+PRD80029,Electronics,Cameras,Solace,Red,,1534.0,SEL10117,4.1,2
+PRD80030,Beauty,Haircare,Lumo,Brown,,428.62,SEL00001,4.2,85
+PRD80031,Electronics,Cameras,Ridgeline,Grey,,1588.2,SEL00001,3.6,15
+PRD80032,Electronics,Headphones,Petal & Pine,Olive,,2713.86,SEL10074,5.0,28
+PRD80033,Apparel,Knitwear,Lumo,Burgundy,M,227.36,SEL10053,4.8,199
+PRD80034,Electronics,Headphones,Bantu,Cream,,1494.43,SEL10181,4.0,27
+PRD80035,Footwear,Sandals,Solace,Navy,3,608.98,SEL10125,3.4,12
+PRD80036,Home & Kitchen,Cookware,Lumo,Green,,1124.79,SEL10169,3.7,299
+PRD80037,Footwear,Sneakers,Ridgeline,Burgundy,6,1438.0,SEL10206,3.8,83
+PRD80038,Toys & Games,Outdoor Toys,Bantu,Brown,,565.05,SEL00001,3.8,101
+PRD80039,Sports & Outdoor,Fitness Equipment,Savanna,Brown,,695.83,SEL10152,3.4,43
+PRD80040,Baby & Kids,Baby Clothing,Ridgeline,Navy,L,2332.91,SEL10145,4.5,16
+PRD80041,Footwear,Formal Shoes,Ironbark,Black,3,757.33,SEL10041,4.0,19
+PRD80042,Sports & Outdoor,Team Sports,Copperfield,Green,,991.33,SEL10150,4.4,154
+PRD80043,Footwear,Boots,Copperfield,Grey,4,303.71,SEL10034,3.8,44
+PRD80044,Baby & Kids,Nappies,Ridgeline,Beige,L,123.4,SEL00001,4.1,50
+PRD80045,Health,Medical Devices,Kestrel,Multi,,338.99,SEL10141,4.3,178
+PRD80046,Electronics,Headphones,Ironbark,Beige,,1140.93,SEL10041,3.8,71
+PRD80047,Beauty,Fragrance,Copperfield,Pink,,248.81,SEL10058,4.4,3
+PRD80048,Footwear,Boots,Bantu,Pink,4,1081.31,SEL10152,3.4,65
+PRD80049,Footwear,Slippers,Ridgeline,Grey,10,912.62,SEL00001,4.7,433
+PRD80050,Electronics,Headphones,Lumo,Cream,,2104.87,SEL10207,3.8,84
+PRD80051,Footwear,Sandals,Copperfield,Black,4,2279.55,SEL00001,2.7,8
+PRD80052,Baby & Kids,Nappies,Aurora,Brown,XS,1109.66,SEL00001,4.0,35
+PRD80053,Beauty,Fragrance,Volt,White,,142.42,SEL10132,4.6,3
+PRD80054,Sports & Outdoor,Cycling,Petal & Pine,Grey,,86.16,SEL10124,3.2,5
+PRD80055,Apparel,Activewear,Nimbus,Cream,XXL,398.93,SEL10021,3.9,187
+PRD80056,Sports & Outdoor,Fitness Equipment,Bantu,Cream,,1112.05,SEL10045,3.3,5
+PRD80057,Footwear,Sneakers,Aurora,Beige,10,604.37,SEL00001,3.7,5
+PRD80058,Electronics,Laptops,Nordveld,Black,,861.39,SEL10029,3.3,380
+PRD80059,Baby & Kids,Baby Clothing,Bantu,Olive,XXL,533.66,SEL10192,3.5,10
+PRD80060,Electronics,Tablets,Terra,Green,,6558.66,SEL10082,4.1,40
+PRD80061,Footwear,Sneakers,Ridgeline,Black,8,818.69,SEL10047,3.8,6
+PRD80062,Beauty,Skincare,Petal & Pine,Burgundy,,99.47,SEL10160,3.4,291
+PRD80063,Apparel,Outerwear,Kestrel,Multi,XL,174.96,SEL00001,3.7,11
+PRD80064,Health,Supplements,Nordveld,White,,108.38,SEL10150,4.3,119
+PRD80065,Beauty,Makeup,Lumo,Green,,212.4,SEL10099,4.0,12
+PRD80066,Apparel,Men's Trousers,Ridgeline,Green,XS,309.9,SEL10079,4.7,83
+PRD80067,Beauty,Makeup,Terra,Black,,208.18,SEL00001,5.0,48
+PRD80068,Health,Medical Devices,Kestrel,Blue,,416.69,SEL10043,3.8,4
+PRD80069,Apparel,Men's Trousers,Kestrel,White,XS,1795.92,SEL10207,4.3,14
+PRD80070,Footwear,Boots,Kestrel,Navy,6,474.24,SEL10057,4.3,6
+PRD80071,Home & Kitchen,Cookware,Savanna,Burgundy,,383.22,SEL00001,3.5,76
+PRD80072,Health,Supplements,Copperfield,Green,,237.9,SEL10051,3.2,57
+PRD80073,Home & Kitchen,Small Appliances,Savanna,Navy,,343.85,SEL00001,3.8,89
+PRD80074,Electronics,Headphones,Terra,Green,,12503.73,SEL10056,5.0,100
+PRD80075,Footwear,Boots,Kestrel,Grey,12,457.9,SEL10135,3.4,12
+PRD80076,Electronics,Accessories,Terra,Red,,751.34,SEL10033,2.9,21
+PRD80077,Apparel,Activewear,Terra,Red,XXL,844.8,SEL10067,3.3,28
+PRD80078,Apparel,Outerwear,Nordveld,Blue,L,358.31,SEL10173,4.2,4
+PRD80079,Beauty,Haircare,Solace,Green,,132.3,SEL10176,4.1,21
+PRD80080,Electronics,Smartphones,Ironbark,Cream,,7052.21,SEL10076,3.8,5
+PRD80081,Electronics,Laptops,Petal & Pine,Olive,,1656.74,SEL10125,3.5,32
+PRD80082,Beauty,Skincare,Lumo,Beige,,329.07,SEL10109,4.7,20
+PRD80083,Apparel,Underwear,Aurora,White,XL,296.39,SEL10081,3.5,135
+PRD80084,Sports & Outdoor,Team Sports,Ridgeline,Burgundy,,2410.03,SEL00001,3.9,210
+PRD80085,Home & Kitchen,Small Appliances,Ironbark,Pink,,1743.82,SEL10012,3.1,7
+PRD80086,Electronics,Audio,Ironbark,Blue,,1357.52,SEL10048,4.5,59
+PRD80087,Home & Kitchen,Cookware,Lumo,Navy,,168.83,SEL10092,3.8,21
+PRD80088,Health,Supplements,Ridgeline,Beige,,289.03,SEL10048,4.5,52
+PRD80089,Baby & Kids,Feeding,Ironbark,Cream,XXL,355.0,SEL00001,3.9,27
+PRD80090,Health,Personal Care,Ridgeline,Green,,442.19,SEL10104,4.2,17
+PRD80091,Electronics,Headphones,Solace,Multi,,4152.76,SEL10192,3.6,87
+PRD80092,Electronics,Accessories,Ridgeline,Green,,2252.33,SEL10165,3.6,40
+PRD80093,Baby & Kids,Baby Clothing,Terra,Black,XL,239.74,SEL10160,4.5,295
+PRD80094,Home & Kitchen,Storage,Bantu,Charcoal,,392.25,SEL10032,3.6,131
+PRD80095,Apparel,Men's Trousers,Aurora,Red,M,287.37,SEL10034,4.0,82
+PRD80096,Home & Kitchen,Cookware,Ridgeline,Burgundy,,204.9,SEL10064,2.9,3
+PRD80097,Apparel,Women's Tops,Aurora,Brown,S,419.22,SEL10053,3.6,19
+PRD80098,Health,Personal Care,Petal & Pine,Olive,,129.39,SEL10104,4.4,176
+PRD80099,Beauty,Makeup,Nordveld,Brown,,253.85,SEL10073,4.6,111
+PRD80100,Apparel,Swimwear,Nimbus,Black,M,435.77,SEL00001,3.6,44
+PRD80101,Home & Kitchen,Bedding,Aurora,Blue,,280.86,SEL00001,3.1,12
+PRD80102,Footwear,Boots,Kestrel,Burgundy,5,458.05,SEL00001,3.3,10
+PRD80103,Electronics,Cameras,Lumo,Grey,,2505.4,SEL00001,2.1,49
+PRD80104,Home & Kitchen,Small Appliances,Terra,Brown,,372.86,SEL10211,4.3,14
+PRD80105,Apparel,Swimwear,Solace,Cream,M,785.26,SEL00001,3.6,4
+PRD80106,Home & Kitchen,Cookware,Bantu,Olive,,979.86,SEL10107,4.5,150
+PRD80107,Electronics,Headphones,Ironbark,Grey,,1230.31,SEL10171,4.4,55
+PRD80108,Electronics,Cameras,Savanna,Brown,,2754.35,SEL00001,5.0,36
+PRD80109,Home & Kitchen,Storage,Ironbark,Blue,,109.81,SEL10000,4.9,38
+PRD80110,Apparel,Women's Dresses,Terra,Pink,M,590.56,SEL10158,5.0,72
+PRD80111,Footwear,Sneakers,Aurora,Green,3,962.67,SEL10023,4.4,40
+PRD80112,Home & Kitchen,Small Appliances,Mzansi Made,Grey,,363.76,SEL10166,4.0,32
+PRD80113,Sports & Outdoor,Team Sports,Lumo,Brown,,171.85,SEL10008,4.1,50
+PRD80114,Footwear,Formal Shoes,Savanna,Brown,9,749.24,SEL10034,4.6,19
+PRD80115,Beauty,Skincare,Petal & Pine,Beige,,313.96,SEL10058,3.1,542
+PRD80116,Books & Media,Music & Film,Nimbus,Multi,,101.65,SEL00001,4.4,242
+PRD80117,Electronics,Laptops,Solace,Blue,,1250.4,SEL10014,4.7,55
+PRD80118,Beauty,Makeup,Petal & Pine,Grey,,176.4,SEL10023,3.7,44
+PRD80119,Sports & Outdoor,Fitness Equipment,Nordveld,White,,1445.45,SEL10018,3.9,14
+PRD80120,Health,Personal Care,Kestrel,Charcoal,,453.73,SEL10130,5.0,120
+PRD80121,Beauty,Haircare,Bantu,Cream,,321.56,SEL10206,5.0,19
+PRD80122,Footwear,Sneakers,Solace,Multi,5,520.41,SEL10077,4.0,26
+PRD80123,Books & Media,Fiction,Lumo,Pink,,250.07,SEL10166,4.3,49
+PRD80124,Beauty,Fragrance,Nimbus,Pink,,225.92,SEL10148,4.5,23
+PRD80125,Books & Media,Music & Film,Aurora,Beige,,165.18,SEL10170,4.2,16
+PRD80126,Beauty,Fragrance,Volt,White,,282.73,SEL10115,4.6,126
+PRD80127,Beauty,Fragrance,Ridgeline,White,,526.02,SEL10048,3.5,65
+PRD80128,Footwear,Boots,Ironbark,Black,8,538.13,SEL10073,3.5,15
+PRD80129,Apparel,Outerwear,Mzansi Made,Grey,M,249.62,SEL10192,3.4,20
+PRD80130,Apparel,Activewear,Copperfield,Blue,XXL,344.42,SEL10165,4.4,17
+PRD80131,Baby & Kids,Baby Clothing,Ironbark,Brown,M,90.15,SEL10208,3.8,6
+PRD80132,Apparel,Women's Tops,Aurora,Beige,M,414.24,SEL00001,4.2,5
+PRD80133,Electronics,Accessories,Terra,Pink,,854.53,SEL10157,3.9,77
+PRD80134,Sports & Outdoor,Camping,Copperfield,Charcoal,,400.5,SEL10020,4.4,39
+PRD80135,Electronics,Laptops,Kestrel,Brown,,4138.87,SEL10068,3.9,89
+PRD80136,Apparel,Women's Dresses,Aurora,Red,S,1400.37,SEL10143,3.5,90
+PRD80137,Footwear,Slippers,Bantu,Cream,10,432.31,SEL10124,4.6,22
+PRD80138,Home & Kitchen,Cookware,Mzansi Made,Burgundy,,269.79,SEL10158,4.5,20
+PRD80139,Toys & Games,Puzzles,Ironbark,Red,,118.11,SEL10198,3.8,12
+PRD80140,Apparel,Denim,Terra,Green,M,341.31,SEL10123,4.0,92
+PRD80141,Home & Kitchen,Storage,Mzansi Made,Charcoal,,384.73,SEL00001,5.0,17
+PRD80142,Apparel,Women's Dresses,Volt,Cream,L,171.16,SEL10182,3.7,117
+PRD80143,Electronics,Smartphones,Volt,Cream,,2106.62,SEL10010,4.1,3
+PRD80144,Beauty,Makeup,Copperfield,Red,,314.35,SEL10187,3.6,20
+PRD80145,Electronics,Cameras,Bantu,Black,,3135.43,SEL00001,4.4,9
+PRD80146,Footwear,Boots,Copperfield,Beige,3,449.43,SEL10043,4.0,62
+PRD80147,Home & Kitchen,Bedding,Ridgeline,Grey,,157.62,SEL10016,3.9,83
+PRD80148,Apparel,Knitwear,Ridgeline,Cream,XS,417.84,SEL10087,4.6,14
+PRD80149,Apparel,Women's Tops,Solace,Green,XL,200.01,SEL00001,1.8,33
+PRD80150,Apparel,Underwear,Petal & Pine,Olive,L,1649.91,SEL00001,4.2,46
+PRD80151,Apparel,Denim,Solace,Black,L,371.8,SEL10109,4.1,49
+PRD80152,Electronics,Accessories,Ridgeline,Brown,,1692.59,SEL10021,3.9,294
+PRD80153,Books & Media,Textbooks,Lumo,Brown,,276.41,SEL00001,3.5,33
+PRD80154,Home & Kitchen,Cookware,Lumo,Multi,,94.53,SEL10175,4.7,51
+PRD80155,Sports & Outdoor,Fitness Equipment,Kestrel,Brown,,293.9,SEL10209,2.7,37
+PRD80156,Footwear,Sneakers,Lumo,Pink,6,731.2,SEL10036,4.1,15
+PRD80157,Sports & Outdoor,Fitness Equipment,Volt,Red,,524.66,SEL10068,3.9,52
+PRD80158,Sports & Outdoor,Camping,Ridgeline,Olive,,1227.85,SEL10202,3.9,124
+PRD80159,Sports & Outdoor,Camping,Savanna,Navy,,927.51,SEL10129,3.3,8
+PRD80160,Apparel,Swimwear,Lumo,Black,XS,333.48,SEL10113,3.7,12
+PRD80161,Home & Kitchen,Decor,Bantu,Charcoal,,343.71,SEL10182,5.0,6
+PRD80162,Home & Kitchen,Cookware,Copperfield,Grey,,724.6,SEL10053,3.6,2
+PRD80163,Beauty,Makeup,Solace,Green,,133.74,SEL00001,4.1,43
+PRD80164,Apparel,Women's Tops,Ridgeline,Green,XXL,176.39,SEL10095,4.0,8
+PRD80165,Electronics,Headphones,Mzansi Made,Navy,,845.13,SEL10165,4.5,9
+PRD80166,Electronics,Cameras,Ironbark,White,,1571.42,SEL10009,4.4,24
+PRD80167,Electronics,Audio,Ironbark,Green,,5340.27,SEL10189,3.5,157
+PRD80168,Electronics,Headphones,Mzansi Made,Navy,,744.52,SEL10187,5.0,68
+PRD80169,Electronics,Headphones,Terra,Grey,,5864.72,SEL10164,5.0,21
+PRD80170,Apparel,Knitwear,Lumo,Charcoal,XXL,307.51,SEL00001,3.8,32
+PRD80171,Toys & Games,Outdoor Toys,Aurora,Cream,,257.27,SEL10152,3.7,604
+PRD80172,Baby & Kids,Baby Clothing,Nimbus,Black,L,184.34,SEL10091,3.8,9
+PRD80173,Apparel,Outerwear,Lumo,Pink,XXL,322.96,SEL00001,4.4,32
+PRD80174,Baby & Kids,Nursery,Volt,Olive,XS,59.24,SEL10047,3.9,69
+PRD80175,Electronics,Laptops,Lumo,Black,,1218.92,SEL10033,4.4,26
+PRD80176,Apparel,Swimwear,Nordveld,Brown,XXL,1255.75,SEL00001,3.7,526
+PRD80177,Electronics,Accessories,Copperfield,Cream,,3683.98,SEL10082,5.0,48
+PRD80178,Beauty,Fragrance,Nimbus,Red,,169.45,SEL10045,2.0,108
+PRD80179,Home & Kitchen,Bedding,Copperfield,Charcoal,,590.29,SEL10019,4.0,62
+PRD80180,Electronics,Smartphones,Mzansi Made,Blue,,558.01,SEL10188,4.5,75
+PRD80181,Health,Personal Care,Kestrel,Cream,,309.08,SEL10101,3.3,4
+PRD80182,Beauty,Skincare,Solace,Multi,,435.27,SEL10076,5.0,2
+PRD80183,Baby & Kids,Nappies,Kestrel,Burgundy,XXL,121.84,SEL10103,4.5,94
+PRD80184,Books & Media,Non-Fiction,Volt,White,,335.32,SEL10071,5.0,67
+PRD80185,Baby & Kids,Nursery,Nimbus,Olive,M,107.36,SEL10079,3.6,3
+PRD80186,Toys & Games,Board Games,Kestrel,Pink,,540.19,SEL10043,3.4,20
+PRD80187,Footwear,Formal Shoes,Mzansi Made,Pink,5,1021.86,SEL00001,3.5,3
+PRD80188,Footwear,Slippers,Savanna,Multi,5,498.6,SEL00001,3.1,68
+PRD80189,Home & Kitchen,Storage,Volt,Charcoal,,177.1,SEL10109,3.2,93
+PRD80190,Sports & Outdoor,Camping,Ironbark,Burgundy,,409.7,SEL00001,4.3,131
+PRD80191,Apparel,Activewear,Volt,Blue,XL,255.73,SEL10167,4.6,119
+PRD80192,Electronics,Accessories,Nimbus,Black,,2923.71,SEL10037,4.6,154
+PRD80193,Home & Kitchen,Small Appliances,Copperfield,Blue,,405.9,SEL10159,4.0,33
+PRD80194,Beauty,Makeup,Lumo,Multi,,1022.92,SEL10056,3.4,18
+PRD80195,Home & Kitchen,Storage,Kestrel,Grey,,211.17,SEL00001,3.6,1326
+PRD80196,Baby & Kids,Nappies,Savanna,Brown,XXL,434.54,SEL10044,5.0,3
+PRD80197,Home & Kitchen,Storage,Nordveld,Olive,,310.57,SEL10132,4.3,3
+PRD80198,Footwear,Formal Shoes,Copperfield,Charcoal,9,344.77,SEL10191,4.8,38
+PRD80199,Toys & Games,Educational Toys,Terra,Grey,,171.63,SEL10016,4.6,9
+PRD80200,Apparel,Men's Trousers,Savanna,Blue,XS,494.06,SEL10018,3.5,15
+PRD80201,Sports & Outdoor,Camping,Petal & Pine,Multi,,972.76,SEL10193,3.5,51
+PRD80202,Apparel,Women's Dresses,Ridgeline,Green,XXL,1113.49,SEL00001,3.8,355
+PRD80203,Apparel,Underwear,Aurora,Blue,S,575.36,SEL10066,3.4,9
+PRD80204,Apparel,Swimwear,Aurora,Olive,XS,321.98,SEL10045,4.3,9
+PRD80205,Footwear,Boots,Nimbus,Green,8,236.58,SEL10159,3.3,73
+PRD80206,Electronics,Audio,Lumo,Grey,,748.74,SEL00001,4.4,2
+PRD80207,Home & Kitchen,Small Appliances,Terra,Brown,,969.79,SEL10049,3.7,49
+PRD80208,Electronics,Smartphones,Aurora,Blue,,1295.12,SEL00001,5.0,18
+PRD80209,Sports & Outdoor,Team Sports,Aurora,Olive,,789.51,SEL10143,3.8,14
+PRD80210,Beauty,Fragrance,Ironbark,White,,147.42,SEL10014,3.6,42
+PRD80211,Baby & Kids,Nappies,Aurora,Burgundy,M,139.37,SEL00001,4.5,49
+PRD80212,Sports & Outdoor,Team Sports,Bantu,Green,,724.02,SEL00001,4.2,22
+PRD80213,Beauty,Skincare,Kestrel,Cream,,158.8,SEL10127,4.1,55
+PRD80214,Apparel,Knitwear,Savanna,Red,XS,700.79,SEL00001,4.0,339
+PRD80215,Beauty,Haircare,Nimbus,Black,,221.46,SEL10182,2.4,16
+PRD80216,Health,Personal Care,Volt,Red,,336.4,SEL10087,3.3,3
+PRD80217,Home & Kitchen,Lighting,Nordveld,Cream,,374.21,SEL00001,4.5,381
+PRD80218,Apparel,Women's Tops,Nimbus,Brown,XXL,519.45,SEL10194,4.4,50
+PRD80219,Apparel,Women's Tops,Petal & Pine,Brown,XXL,362.82,SEL10091,3.7,23
+PRD80220,Apparel,Men's Trousers,Ridgeline,Navy,S,346.58,SEL10049,2.6,9
+PRD80221,Electronics,Accessories,Terra,Black,,1110.98,SEL10014,4.1,356
+PRD80222,Footwear,Formal Shoes,Solace,Red,10,583.68,SEL10000,4.2,154
+PRD80223,Apparel,Underwear,Ironbark,Pink,XXL,285.88,SEL10163,5.0,59
+PRD80224,Apparel,Women's Dresses,Kestrel,Grey,L,355.85,SEL10006,3.3,19
+PRD80225,Books & Media,Textbooks,Copperfield,Burgundy,,367.67,SEL10109,3.6,9
+PRD80226,Apparel,Knitwear,Aurora,Charcoal,XXL,286.38,SEL10139,5.0,5
+PRD80227,Apparel,Activewear,Volt,Green,XL,83.66,SEL10208,4.7,1
+PRD80228,Beauty,Makeup,Savanna,Brown,,515.92,SEL10013,4.2,112
+PRD80229,Footwear,Sandals,Kestrel,Beige,3,810.23,SEL10188,4.1,11
+PRD80230,Apparel,Swimwear,Nimbus,Charcoal,XL,1350.11,SEL10191,4.3,67
+PRD80231,Home & Kitchen,Cookware,Terra,Multi,,1167.82,SEL10079,3.9,13
+PRD80232,Toys & Games,Board Games,Ridgeline,Burgundy,,451.73,SEL10209,4.0,7
+PRD80233,Electronics,Smartwatches,Savanna,Brown,,875.45,SEL00001,4.3,15
+PRD80234,Electronics,Laptops,Volt,Charcoal,,2629.38,SEL10036,4.8,16
+PRD80235,Electronics,Audio,Nimbus,Blue,,1648.58,SEL10207,3.4,13
+PRD80236,Home & Kitchen,Small Appliances,Terra,Charcoal,,515.01,SEL10108,4.2,3
+PRD80237,Electronics,Cameras,Nimbus,Cream,,8410.36,SEL10081,3.7,14
+PRD80238,Books & Media,Music & Film,Nimbus,Olive,,409.73,SEL10097,3.3,45
+PRD80239,Toys & Games,Board Games,Copperfield,Pink,,543.16,SEL10019,3.4,102
+PRD80240,Baby & Kids,Baby Clothing,Ironbark,Brown,M,311.53,SEL00001,2.9,25
+PRD80241,Footwear,Formal Shoes,Aurora,Black,5,834.02,SEL10114,3.4,8
+PRD80242,Home & Kitchen,Decor,Petal & Pine,Blue,,182.11,SEL10154,4.9,478
+PRD80243,Apparel,Men's Trousers,Mzansi Made,Charcoal,S,498.28,SEL10018,3.8,44
+PRD80244,Toys & Games,Board Games,Bantu,White,,93.84,SEL00001,3.3,206
+PRD80245,Beauty,Fragrance,Ridgeline,Multi,,108.53,SEL10077,3.3,6
+PRD80246,Beauty,Haircare,Terra,Multi,,138.66,SEL10139,4.5,50
+PRD80247,Footwear,Formal Shoes,Terra,Charcoal,11,2212.35,SEL10034,2.9,51
+PRD80248,Electronics,Accessories,Petal & Pine,Cream,,3727.87,SEL10198,3.7,3
+PRD80249,Home & Kitchen,Small Appliances,Ironbark,White,,987.01,SEL10143,3.1,157
+PRD80250,Baby & Kids,Baby Clothing,Ridgeline,Navy,XXL,580.41,SEL00001,4.0,1
+PRD80251,Electronics,Smartwatches,Ironbark,Olive,,1445.88,SEL10104,3.8,16
+PRD80252,Beauty,Haircare,Solace,Navy,,258.8,SEL00001,4.2,111
+PRD80253,Home & Kitchen,Decor,Volt,Blue,,896.24,SEL10206,4.0,17
+PRD80254,Footwear,Boots,Ridgeline,Red,3,435.7,SEL10043,4.4,25
+PRD80255,Home & Kitchen,Storage,Nordveld,Brown,,211.67,SEL10206,5.0,24
+PRD80256,Toys & Games,Educational Toys,Volt,Charcoal,,154.88,SEL10101,4.0,10
+PRD80257,Sports & Outdoor,Fitness Equipment,Aurora,Grey,,1802.32,SEL10166,4.8,302
+PRD80258,Home & Kitchen,Lighting,Copperfield,Cream,,1355.4,SEL10158,3.9,53
+PRD80259,Apparel,Knitwear,Bantu,Beige,S,377.62,SEL00001,4.3,122
+PRD80260,Apparel,Women's Tops,Solace,Red,S,436.44,SEL10156,3.3,77
+PRD80261,Home & Kitchen,Lighting,Solace,Brown,,1092.32,SEL10061,4.5,5
+PRD80262,Apparel,Women's Tops,Mzansi Made,Burgundy,L,547.63,SEL00001,4.3,47
+PRD80263,Apparel,Men's Trousers,Lumo,White,L,551.52,SEL00001,3.5,113
+PRD80264,Beauty,Haircare,Nimbus,Beige,,282.26,SEL00001,4.3,21
+PRD80265,Beauty,Skincare,Mzansi Made,Beige,,1032.25,SEL00001,4.7,160
+PRD80266,Home & Kitchen,Decor,Nordveld,Red,,582.9,SEL10010,4.2,69
+PRD80267,Apparel,Knitwear,Ironbark,White,L,593.89,SEL00001,3.5,14
+PRD80268,Electronics,Audio,Bantu,Green,,889.48,SEL00001,4.4,152
+PRD80269,Footwear,Sandals,Mzansi Made,Brown,3,329.28,SEL00001,4.3,12
+PRD80270,Electronics,Laptops,Nordveld,Charcoal,,3090.83,SEL00001,4.4,6
+PRD80271,Books & Media,Non-Fiction,Ironbark,Burgundy,,193.77,SEL10136,3.3,42
+PRD80272,Baby & Kids,Nappies,Savanna,Pink,L,165.03,SEL10047,4.6,35
+PRD80273,Electronics,Tablets,Kestrel,Grey,,1085.93,SEL10033,4.5,36
+PRD80274,Electronics,Smartphones,Petal & Pine,Grey,,4143.24,SEL10028,3.8,192
+PRD80275,Home & Kitchen,Bedding,Savanna,Charcoal,,512.36,SEL10194,3.6,288
+PRD80276,Footwear,Sandals,Mzansi Made,Beige,12,976.21,SEL10107,4.5,13
+PRD80277,Footwear,Sandals,Lumo,Black,5,677.41,SEL10170,3.2,247
+PRD80278,Home & Kitchen,Lighting,Copperfield,Pink,,649.96,SEL10052,4.3,27
+PRD80279,Apparel,Men's Shirts,Volt,Beige,XL,302.58,SEL10116,4.9,523
+PRD80280,Home & Kitchen,Lighting,Petal & Pine,Brown,,1150.78,SEL10000,4.4,80
+PRD80281,Books & Media,Fiction,Solace,Cream,,106.94,SEL10038,3.6,56
+PRD80282,Apparel,Underwear,Ironbark,Red,XS,677.49,SEL00001,3.3,4
+PRD80283,Electronics,Smartphones,Savanna,Black,,1155.93,SEL10193,4.9,8
+PRD80284,Footwear,Sneakers,Petal & Pine,Navy,7,592.68,SEL10055,4.4,29
+PRD80285,Books & Media,Music & Film,Volt,Brown,,365.51,SEL00001,2.6,5
+PRD80286,Apparel,Underwear,Bantu,Charcoal,XXL,213.46,SEL10038,3.7,8
+PRD80287,Apparel,Activewear,Ironbark,Pink,XS,234.55,SEL10213,3.1,123
+PRD80288,Beauty,Haircare,Aurora,Navy,,167.4,SEL10049,4.3,13
+PRD80289,Electronics,Cameras,Volt,Burgundy,,817.43,SEL00001,4.6,14
+PRD80290,Baby & Kids,Baby Clothing,Volt,Blue,M,526.86,SEL00001,4.1,28
+PRD80291,Footwear,Sneakers,Volt,Charcoal,11,1166.31,SEL10052,4.2,9
+PRD80292,Health,Medical Devices,Volt,Beige,,238.45,SEL00001,3.4,2
+PRD80293,Apparel,Underwear,Bantu,Multi,L,193.47,SEL00001,3.8,131
+PRD80294,Toys & Games,Outdoor Toys,Solace,Black,,135.07,SEL10191,3.1,226
+PRD80295,Beauty,Haircare,Lumo,Beige,,217.53,SEL10163,4.1,35
+PRD80296,Apparel,Knitwear,Mzansi Made,Black,XS,271.32,SEL10046,3.9,12
+PRD80297,Apparel,Activewear,Aurora,Red,XS,174.55,SEL10145,3.5,4
+PRD80298,Apparel,Activewear,Lumo,Grey,XXL,649.06,SEL10157,4.1,10
+PRD80299,Health,Supplements,Savanna,Charcoal,,166.16,SEL10110,3.5,94
+PRD80300,Home & Kitchen,Small Appliances,Terra,Black,,303.62,SEL10089,3.9,6
+PRD80301,Sports & Outdoor,Fitness Equipment,Volt,Red,,731.02,SEL10089,4.3,262
+PRD80302,Apparel,Activewear,Savanna,Blue,S,362.15,SEL00001,3.1,456
+PRD80303,Apparel,Men's Shirts,Terra,Olive,M,198.83,SEL10094,4.6,26
+PRD80304,Electronics,Headphones,Solace,Brown,,345.12,SEL10145,5.0,5
+PRD80305,Toys & Games,Outdoor Toys,Terra,Pink,,555.42,SEL10075,4.2,172
+PRD80306,Apparel,Outerwear,Mzansi Made,Grey,XXL,191.76,SEL10032,3.9,49
+PRD80307,Electronics,Cameras,Aurora,Cream,,1132.58,SEL10143,3.4,85
+PRD80308,Electronics,Headphones,Savanna,Charcoal,,2755.6,SEL00001,4.0,1
+PRD80309,Footwear,Boots,Lumo,White,12,1193.25,SEL10040,2.9,2
+PRD80310,Baby & Kids,Nappies,Ironbark,Beige,XXL,431.24,SEL10170,3.8,227
+PRD80311,Beauty,Fragrance,Volt,Green,,340.97,SEL10053,4.7,3
+PRD80312,Electronics,Smartwatches,Ridgeline,Green,,4276.5,SEL00001,4.1,4
+PRD80313,Books & Media,Textbooks,Aurora,Grey,,310.24,SEL00001,4.3,36
+PRD80314,Beauty,Skincare,Terra,Navy,,190.98,SEL10112,4.0,2
+PRD80315,Electronics,Laptops,Nordveld,Olive,,391.09,SEL10091,4.6,10
+PRD80316,Apparel,Outerwear,Ironbark,Green,M,148.19,SEL10028,3.9,35
+PRD80317,Sports & Outdoor,Cycling,Kestrel,Blue,,1395.99,SEL10013,4.2,2179
+PRD80318,Apparel,Activewear,Mzansi Made,Grey,M,360.5,SEL10212,4.8,131
+PRD80319,Baby & Kids,Baby Clothing,Mzansi Made,Green,L,300.64,SEL10087,3.3,51
+PRD80320,Footwear,Formal Shoes,Petal & Pine,Olive,8,331.39,SEL10112,3.1,263
+PRD80321,Apparel,Underwear,Volt,Blue,XXL,1350.84,SEL10178,4.0,5
+PRD80322,Footwear,Sandals,Aurora,Red,9,1572.09,SEL00001,5.0,12
+PRD80323,Apparel,Outerwear,Copperfield,Blue,XXL,313.01,SEL10176,4.6,23
+PRD80324,Home & Kitchen,Lighting,Bantu,Navy,,59.52,SEL10156,3.0,4
+PRD80325,Toys & Games,Board Games,Mzansi Made,Pink,,368.08,SEL10026,4.9,80
+PRD80326,Books & Media,Non-Fiction,Kestrel,Charcoal,,173.75,SEL10081,3.0,7
+PRD80327,Home & Kitchen,Decor,Volt,Olive,,198.87,SEL10023,4.9,1
+PRD80328,Apparel,Women's Dresses,Petal & Pine,Charcoal,S,412.93,SEL00001,4.4,15
+PRD80329,Apparel,Swimwear,Volt,Pink,XL,487.51,SEL10029,4.8,57
+PRD80330,Apparel,Men's Shirts,Solace,Blue,M,562.99,SEL10122,4.6,84
+PRD80331,Beauty,Fragrance,Aurora,Beige,,265.69,SEL10108,3.7,14
+PRD80332,Electronics,Laptops,Ridgeline,Red,,1171.07,SEL10046,3.3,12
+PRD80333,Toys & Games,Board Games,Volt,Cream,,217.58,SEL10101,4.0,78
+PRD80334,Apparel,Activewear,Kestrel,Navy,XS,252.87,SEL10087,2.9,27
+PRD80335,Footwear,Boots,Kestrel,Beige,6,618.96,SEL10048,3.2,8
+PRD80336,Home & Kitchen,Decor,Solace,Multi,,978.01,SEL10171,3.9,29
+PRD80337,Books & Media,Fiction,Aurora,Multi,,181.65,SEL10211,4.2,17
+PRD80338,Footwear,Formal Shoes,Savanna,Olive,9,606.94,SEL10195,4.9,27
+PRD80339,Electronics,Tablets,Bantu,Olive,,1598.41,SEL10014,3.9,93
+PRD80340,Home & Kitchen,Cookware,Ridgeline,Navy,,422.4,SEL10148,4.4,4
+PRD80341,Electronics,Cameras,Ironbark,White,,1032.82,SEL00001,3.4,140
+PRD80342,Sports & Outdoor,Fitness Equipment,Savanna,Brown,,178.56,SEL10150,4.6,407
+PRD80343,Home & Kitchen,Small Appliances,Nimbus,Blue,,800.08,SEL10093,4.3,59
+PRD80344,Electronics,Headphones,Bantu,Multi,,1476.29,SEL10046,3.7,10
+PRD80345,Health,Supplements,Savanna,Beige,,222.24,SEL10211,3.6,41
+PRD80346,Beauty,Skincare,Ironbark,Grey,,476.65,SEL10074,3.7,196
+PRD80347,Beauty,Fragrance,Solace,Blue,,481.91,SEL10044,3.4,43
+PRD80348,Apparel,Men's Trousers,Copperfield,Beige,XS,129.53,SEL10013,4.7,19
+PRD80349,Footwear,Sandals,Savanna,Red,8,1944.43,SEL10168,4.5,18
+PRD80350,Home & Kitchen,Storage,Nimbus,Pink,,720.03,SEL10033,4.9,172
+PRD80351,Electronics,Smartwatches,Copperfield,Blue,,6659.97,SEL10032,3.0,3
+PRD80352,Electronics,Smartphones,Savanna,Multi,,680.06,SEL10114,3.3,13
+PRD80353,Footwear,Formal Shoes,Terra,Beige,5,513.13,SEL10102,4.0,1
+PRD80354,Apparel,Knitwear,Savanna,Grey,XS,550.92,SEL00001,3.5,9
+PRD80355,Electronics,Cameras,Nordveld,Green,,5725.74,SEL00001,4.6,37
+PRD80356,Home & Kitchen,Storage,Ridgeline,Brown,,347.31,SEL10041,5.0,24
+PRD80357,Books & Media,Textbooks,Bantu,Multi,,141.24,SEL00001,4.1,32
+PRD80358,Apparel,Activewear,Savanna,Burgundy,S,1289.91,SEL10142,3.9,39
+PRD80359,Home & Kitchen,Storage,Terra,Navy,,466.21,SEL10086,3.2,96
+PRD80360,Health,Personal Care,Mzansi Made,Pink,,383.93,SEL10042,3.0,3
+PRD80361,Apparel,Activewear,Solace,Grey,XXL,85.04,SEL10157,3.9,19
+PRD80362,Beauty,Makeup,Mzansi Made,White,,808.33,SEL00001,3.0,30
+PRD80363,Home & Kitchen,Small Appliances,Nordveld,Brown,,509.24,SEL10139,3.1,18
+PRD80364,Apparel,Denim,Petal & Pine,Grey,XL,184.91,SEL10208,4.0,157
+PRD80365,Footwear,Sandals,Lumo,Charcoal,8,1082.01,SEL10198,4.4,32
+PRD80366,Home & Kitchen,Small Appliances,Bantu,Olive,,83.66,SEL10013,4.2,66
+PRD80367,Baby & Kids,Nappies,Aurora,Multi,XXL,221.15,SEL10036,3.8,32
+PRD80368,Home & Kitchen,Lighting,Ironbark,Navy,,196.83,SEL10107,4.6,3
+PRD80369,Baby & Kids,Feeding,Terra,Cream,XL,597.73,SEL10183,4.1,112
+PRD80370,Apparel,Outerwear,Ironbark,Cream,XS,293.06,SEL00001,4.2,153
+PRD80371,Electronics,Audio,Nimbus,Charcoal,,1372.86,SEL10199,4.4,1
+PRD80372,Beauty,Fragrance,Lumo,Burgundy,,536.6,SEL10030,4.1,177
+PRD80373,Health,Medical Devices,Nordveld,Multi,,140.95,SEL00001,5.0,25
+PRD80374,Apparel,Denim,Nordveld,Beige,M,425.57,SEL10004,4.5,309
+PRD80375,Sports & Outdoor,Team Sports,Mzansi Made,Blue,,357.93,SEL10163,3.5,12
+PRD80376,Sports & Outdoor,Camping,Mzansi Made,Black,,456.73,SEL10029,3.5,15
+PRD80377,Footwear,Sandals,Petal & Pine,Navy,9,813.92,SEL10060,4.0,43
+PRD80378,Toys & Games,Educational Toys,Ironbark,Beige,,135.94,SEL10164,4.5,5
+PRD80379,Beauty,Makeup,Mzansi Made,Burgundy,,148.5,SEL10203,3.4,20
+PRD80380,Footwear,Sandals,Nimbus,Olive,8,278.53,SEL10194,4.5,2
+PRD80381,Footwear,Boots,Volt,Multi,8,706.32,SEL10110,3.2,108
+PRD80382,Books & Media,Textbooks,Terra,Grey,,172.87,SEL10187,4.6,57
+PRD80383,Footwear,Sneakers,Petal & Pine,Olive,7,703.5,SEL00001,3.8,64
+PRD80384,Home & Kitchen,Cookware,Lumo,Blue,,1008.21,SEL10029,3.7,169
+PRD80385,Footwear,Sandals,Mzansi Made,Green,8,787.23,SEL10071,3.6,264
+PRD80386,Home & Kitchen,Small Appliances,Nimbus,Brown,,205.56,SEL10179,3.5,31
+PRD80387,Books & Media,Textbooks,Savanna,Multi,,266.53,SEL00001,4.5,36
+PRD80388,Electronics,Cameras,Copperfield,Multi,,909.99,SEL10110,4.1,52
+PRD80389,Sports & Outdoor,Team Sports,Terra,Grey,,376.78,SEL00001,3.7,28
+PRD80390,Apparel,Underwear,Mzansi Made,Olive,XL,1130.79,SEL10011,4.6,6
+PRD80391,Sports & Outdoor,Team Sports,Nordveld,Navy,,209.84,SEL10052,3.2,18
+PRD80392,Apparel,Swimwear,Volt,Charcoal,XXL,258.0,SEL00001,4.2,6
+PRD80393,Footwear,Boots,Nimbus,Pink,7,383.22,SEL10037,4.2,60
+PRD80394,Beauty,Skincare,Petal & Pine,Green,,606.82,SEL00001,3.9,62
+PRD80395,Toys & Games,Board Games,Kestrel,Grey,,201.16,SEL10002,4.2,13
+PRD80396,Health,Personal Care,Ridgeline,Black,,129.8,SEL00001,4.1,7
+PRD80397,Apparel,Underwear,Solace,Navy,L,317.51,SEL10152,3.0,67
+PRD80398,Baby & Kids,Baby Clothing,Copperfield,Grey,XL,118.08,SEL10061,4.2,104
+PRD80399,Footwear,Sneakers,Solace,Multi,9,839.84,SEL00001,4.4,4
+PRD80400,Electronics,Tablets,Solace,Grey,,2999.24,SEL10143,4.8,33
+PRD80401,Apparel,Women's Tops,Bantu,Cream,M,1776.45,SEL00001,4.3,25
+PRD80402,Books & Media,Music & Film,Mzansi Made,Multi,,137.99,SEL10205,4.2,131
+PRD80403,Home & Kitchen,Lighting,Ironbark,Beige,,699.17,SEL10011,4.2,159
+PRD80404,Baby & Kids,Nursery,Kestrel,Brown,M,133.56,SEL00001,4.4,9
+PRD80405,Apparel,Denim,Bantu,Black,XXL,289.59,SEL10060,3.5,59
+PRD80406,Sports & Outdoor,Camping,Savanna,Cream,,97.83,SEL10198,4.6,198
+PRD80407,Books & Media,Fiction,Petal & Pine,Navy,,167.45,SEL10206,3.1,23
+PRD80408,Apparel,Men's Shirts,Kestrel,Red,XXL,102.43,SEL10041,3.7,126
+PRD80409,Apparel,Outerwear,Solace,Grey,XL,243.29,SEL00001,4.9,25
+PRD80410,Electronics,Headphones,Nordveld,Charcoal,,1747.57,SEL00001,3.4,10
+PRD80411,Apparel,Denim,Solace,Green,M,511.86,SEL10185,4.9,170
+PRD80412,Home & Kitchen,Bedding,Nimbus,Red,,383.33,SEL10130,3.5,6
+PRD80413,Apparel,Outerwear,Solace,Charcoal,XS,343.68,SEL10071,5.0,171
+PRD80414,Apparel,Activewear,Aurora,Green,M,463.25,SEL00001,4.5,28
+PRD80415,Home & Kitchen,Bedding,Petal & Pine,Green,,704.11,SEL10184,4.4,4
+PRD80416,Sports & Outdoor,Cycling,Nimbus,Green,,1176.08,SEL10058,4.7,3
+PRD80417,Beauty,Skincare,Savanna,Olive,,88.3,SEL10184,4.2,14
+PRD80418,Apparel,Men's Trousers,Volt,Grey,S,608.17,SEL10123,3.6,4
+PRD80419,Beauty,Haircare,Terra,Pink,,541.61,SEL10097,4.6,33
+PRD80420,Books & Media,Fiction,Aurora,Beige,,165.1,SEL00001,4.7,63
+PRD80421,Apparel,Women's Tops,Terra,Black,XXL,647.04,SEL10019,5.0,2
+PRD80422,Sports & Outdoor,Fitness Equipment,Petal & Pine,Multi,,700.19,SEL00001,3.9,9
+PRD80423,Books & Media,Non-Fiction,Nordveld,Red,,416.72,SEL10104,3.9,21
+PRD80424,Home & Kitchen,Storage,Copperfield,Multi,,235.78,SEL10212,3.9,132
+PRD80425,Sports & Outdoor,Cycling,Kestrel,Navy,,498.66,SEL00001,3.7,4
+PRD80426,Electronics,Tablets,Ironbark,Beige,,3365.81,SEL10009,5.0,8
+PRD80427,Beauty,Skincare,Lumo,Charcoal,,256.13,SEL10081,4.2,9
+PRD80428,Sports & Outdoor,Cycling,Kestrel,Charcoal,,387.43,SEL10023,5.0,6
+PRD80429,Apparel,Women's Tops,Petal & Pine,Beige,XS,318.58,SEL00001,3.7,4
+PRD80430,Health,Medical Devices,Terra,Green,,254.63,SEL10036,4.4,24
+PRD80431,Apparel,Women's Dresses,Nimbus,Olive,M,335.16,SEL00001,4.4,57
+PRD80432,Footwear,Sandals,Kestrel,Multi,8,310.32,SEL10145,4.4,46
+PRD80433,Apparel,Women's Dresses,Lumo,Blue,XS,169.98,SEL10077,3.8,327
+PRD80434,Apparel,Outerwear,Solace,Charcoal,XL,1014.41,SEL10207,4.9,578
+PRD80435,Footwear,Boots,Solace,Red,4,332.19,SEL10124,3.3,178
+PRD80436,Beauty,Makeup,Lumo,Olive,,941.73,SEL10182,3.3,17
+PRD80437,Electronics,Audio,Bantu,Burgundy,,2969.03,SEL00001,5.0,7
+PRD80438,Apparel,Activewear,Terra,Green,L,514.2,SEL10183,5.0,25
+PRD80439,Apparel,Outerwear,Terra,Brown,S,270.05,SEL10134,3.5,20
+PRD80440,Apparel,Knitwear,Ironbark,Navy,XXL,209.17,SEL10053,3.9,970
+PRD80441,Toys & Games,Board Games,Terra,Burgundy,,280.78,SEL10145,2.7,9
+PRD80442,Footwear,Slippers,Lumo,Navy,6,1077.37,SEL10061,4.5,22
+PRD80443,Sports & Outdoor,Camping,Lumo,Olive,,166.84,SEL10023,3.0,21
+PRD80444,Health,Medical Devices,Aurora,Multi,,1290.05,SEL10076,4.9,20
+PRD80445,Home & Kitchen,Lighting,Lumo,Red,,230.37,SEL10057,4.8,23
+PRD80446,Footwear,Formal Shoes,Nordveld,Cream,8,1056.12,SEL10046,3.5,1294
+PRD80447,Home & Kitchen,Decor,Terra,Beige,,601.73,SEL10187,4.4,1
+PRD80448,Toys & Games,Outdoor Toys,Volt,Charcoal,,249.23,SEL10009,3.6,114
+PRD80449,Toys & Games,Board Games,Nimbus,Charcoal,,293.74,SEL10014,3.6,46
+PRD80450,Footwear,Slippers,Petal & Pine,Cream,7,898.97,SEL10067,3.7,21
+PRD80451,Apparel,Outerwear,Nordveld,Green,M,206.25,SEL00001,4.8,18
+PRD80452,Electronics,Smartwatches,Ridgeline,Beige,,2621.09,SEL10074,4.0,747
+PRD80453,Apparel,Activewear,Nimbus,Burgundy,L,364.82,SEL10143,4.7,170
+PRD80454,Sports & Outdoor,Fitness Equipment,Ridgeline,Green,,661.41,SEL10102,3.1,104
+PRD80455,Books & Media,Non-Fiction,Kestrel,Beige,,389.21,SEL10111,5.0,11
+PRD80456,Apparel,Underwear,Copperfield,Cream,XXL,266.67,SEL00001,3.5,84
+PRD80457,Electronics,Audio,Lumo,Green,,3104.99,SEL10173,3.7,94
+PRD80458,Electronics,Smartphones,Copperfield,Brown,,1007.19,SEL10168,4.0,96
+PRD80459,Footwear,Slippers,Mzansi Made,Blue,10,854.87,SEL10101,3.1,2
+PRD80460,Apparel,Underwear,Lumo,Beige,XS,324.25,SEL10046,4.3,22
+PRD80461,Sports & Outdoor,Team Sports,Volt,Brown,,591.24,SEL10120,4.1,6
+PRD80462,Home & Kitchen,Bedding,Lumo,Red,,1736.35,SEL10013,3.1,122
+PRD80463,Toys & Games,Board Games,Bantu,Grey,,305.1,SEL10194,4.2,15
+PRD80464,Beauty,Fragrance,Nordveld,Cream,,372.07,SEL10014,3.9,112
+PRD80465,Apparel,Women's Dresses,Bantu,Burgundy,XL,495.34,SEL10160,4.1,26
+PRD80466,Home & Kitchen,Storage,Bantu,Green,,520.57,SEL00001,4.6,38
+PRD80467,Home & Kitchen,Decor,Aurora,Beige,,269.18,SEL10057,4.3,7
+PRD80468,Footwear,Formal Shoes,Kestrel,Grey,12,378.92,SEL10029,4.7,357
+PRD80469,Electronics,Headphones,Bantu,Black,,2750.14,SEL10019,5.0,695
+PRD80470,Health,Medical Devices,Volt,White,,322.37,SEL10032,4.1,32
+PRD80471,Apparel,Women's Dresses,Bantu,Brown,XXL,166.82,SEL00001,2.5,4
+PRD80472,Electronics,Audio,Nordveld,Cream,,1047.4,SEL10103,4.2,74
+PRD80473,Apparel,Activewear,Mzansi Made,Black,XS,201.57,SEL10110,3.6,85
+PRD80474,Toys & Games,Educational Toys,Nimbus,Burgundy,,147.45,SEL00001,4.6,18
+PRD80475,Apparel,Men's Trousers,Terra,White,XS,553.42,SEL10209,4.1,3
+PRD80476,Home & Kitchen,Bedding,Aurora,Grey,,310.42,SEL00001,3.1,26
+PRD80477,Sports & Outdoor,Fitness Equipment,Copperfield,Green,,401.73,SEL10075,4.3,37
+PRD80478,Footwear,Formal Shoes,Savanna,Green,12,240.62,SEL10183,3.6,36
+PRD80479,Apparel,Underwear,Ridgeline,Grey,S,600.12,SEL10061,3.9,37
+PRD80480,Home & Kitchen,Cookware,Copperfield,Charcoal,,86.78,SEL10004,4.3,3
+PRD80481,Sports & Outdoor,Fitness Equipment,Lumo,Burgundy,,1231.95,SEL00001,4.2,26
+PRD80482,Home & Kitchen,Small Appliances,Copperfield,Multi,,482.87,SEL10038,3.5,5
+PRD80483,Apparel,Women's Dresses,Lumo,Navy,L,306.11,SEL10185,3.2,132
+PRD80484,Apparel,Denim,Copperfield,Burgundy,L,564.69,SEL10018,2.9,6
+PRD80485,Home & Kitchen,Small Appliances,Copperfield,Cream,,173.83,SEL10125,3.3,33
+PRD80486,Home & Kitchen,Cookware,Mzansi Made,Multi,,813.62,SEL10208,4.4,17
+PRD80487,Beauty,Makeup,Aurora,Multi,,671.73,SEL10041,3.9,17
+PRD80488,Footwear,Sneakers,Solace,Red,5,740.88,SEL00001,4.0,10
+PRD80489,Home & Kitchen,Decor,Ridgeline,Blue,,1091.2,SEL10081,3.6,59
+PRD80490,Beauty,Skincare,Nimbus,Burgundy,,180.17,SEL10014,3.2,3
+PRD80491,Books & Media,Music & Film,Petal & Pine,Blue,,156.76,SEL10079,4.7,23
+PRD80492,Electronics,Accessories,Petal & Pine,Beige,,1433.9,SEL10116,4.3,91
+PRD80493,Beauty,Skincare,Lumo,Olive,,109.09,SEL10110,4.3,46
+PRD80494,Footwear,Sneakers,Terra,Pink,4,393.61,SEL00001,2.9,39
+PRD80495,Footwear,Sneakers,Volt,Grey,11,542.56,SEL10205,5.0,6
+PRD80496,Footwear,Slippers,Aurora,Charcoal,4,234.74,SEL10122,4.6,5
+PRD80497,Footwear,Slippers,Lumo,Brown,9,1371.23,SEL10201,4.4,1
+PRD80498,Apparel,Men's Trousers,Ridgeline,Cream,XS,387.23,SEL10045,4.9,328
+PRD80499,Baby & Kids,Baby Clothing,Terra,Multi,XXL,1386.98,SEL10012,4.3,4
+PRD80500,Footwear,Sneakers,Terra,Olive,12,433.23,SEL00001,3.3,10
+PRD80501,Electronics,Headphones,Nordveld,Grey,,2314.25,SEL10111,4.6,6
+PRD80502,Apparel,Outerwear,Copperfield,White,XXL,418.14,SEL10079,3.7,20
+PRD80503,Footwear,Boots,Nimbus,White,6,208.57,SEL10046,4.5,112
+PRD80504,Home & Kitchen,Decor,Kestrel,Cream,,448.78,SEL10065,3.9,159
+PRD80505,Baby & Kids,Nursery,Solace,Burgundy,S,404.98,SEL00001,4.7,14
+PRD80506,Footwear,Boots,Kestrel,Blue,7,527.4,SEL10008,3.6,18
+PRD80507,Footwear,Formal Shoes,Volt,Charcoal,10,508.22,SEL10028,4.8,6
+PRD80508,Sports & Outdoor,Camping,Bantu,Charcoal,,415.62,SEL10100,3.9,95
+PRD80509,Beauty,Haircare,Ridgeline,Olive,,216.5,SEL10191,3.6,2
+PRD80510,Home & Kitchen,Small Appliances,Solace,Black,,282.48,SEL10114,3.6,191
+PRD80511,Beauty,Makeup,Bantu,Grey,,171.84,SEL10167,3.9,18
+PRD80512,Apparel,Underwear,Ridgeline,Black,S,207.15,SEL10198,4.6,13
+PRD80513,Beauty,Fragrance,Volt,Red,,106.85,SEL10114,4.8,40
+PRD80514,Baby & Kids,Nursery,Nordveld,Black,L,439.35,SEL10125,4.6,2
+PRD80515,Baby & Kids,Nursery,Lumo,White,XL,120.35,SEL00001,5.0,79
+PRD80516,Electronics,Laptops,Savanna,Charcoal,,3283.13,SEL10026,4.6,3
+PRD80517,Toys & Games,Outdoor Toys,Nimbus,Olive,,179.7,SEL10208,4.1,20
+PRD80518,Electronics,Accessories,Copperfield,Multi,,1089.49,SEL10132,4.4,201
+PRD80519,Electronics,Audio,Bantu,Burgundy,,8155.15,SEL10097,3.6,12
+PRD80520,Home & Kitchen,Small Appliances,Nordveld,White,,156.2,SEL00001,3.9,244
+PRD80521,Beauty,Haircare,Aurora,Brown,,316.44,SEL10019,3.8,39
+PRD80522,Footwear,Slippers,Terra,Red,6,690.7,SEL10044,3.6,15
+PRD80523,Books & Media,Textbooks,Bantu,Red,,190.3,SEL00001,4.7,12
+PRD80524,Beauty,Makeup,Aurora,Navy,,1066.39,SEL00001,4.3,5
+PRD80525,Baby & Kids,Nursery,Petal & Pine,Burgundy,M,398.37,SEL10013,5.0,48
+PRD80526,Sports & Outdoor,Camping,Ridgeline,Green,,860.83,SEL10164,4.2,15
+PRD80527,Electronics,Audio,Solace,Brown,,1880.0,SEL10151,3.0,15
+PRD80528,Apparel,Activewear,Aurora,Burgundy,S,238.49,SEL10016,4.0,27
+PRD80529,Toys & Games,Board Games,Ironbark,Red,,261.1,SEL10022,4.2,8
+PRD80530,Baby & Kids,Nappies,Nordveld,Beige,S,121.26,SEL10099,3.2,31
+PRD80531,Electronics,Accessories,Ironbark,Green,,694.79,SEL10038,4.3,11
+PRD80532,Baby & Kids,Baby Clothing,Terra,Cream,M,221.44,SEL10049,5.0,32
+PRD80533,Toys & Games,Outdoor Toys,Aurora,Green,,315.4,SEL10188,3.8,94
+PRD80534,Electronics,Accessories,Terra,Beige,,2708.28,SEL00001,4.4,366
+PRD80535,Apparel,Activewear,Savanna,Burgundy,L,451.23,SEL10180,4.5,14
+PRD80536,Home & Kitchen,Small Appliances,Volt,Cream,,1280.62,SEL00001,3.6,72
+PRD80537,Apparel,Underwear,Mzansi Made,Green,XL,657.21,SEL10073,4.4,5
+PRD80538,Health,Personal Care,Volt,Burgundy,,490.05,SEL10124,3.7,23
+PRD80539,Electronics,Tablets,Aurora,Burgundy,,5286.66,SEL10142,4.3,25
+PRD80540,Books & Media,Non-Fiction,Nordveld,Beige,,337.73,SEL00001,5.0,275
+PRD80541,Footwear,Slippers,Nimbus,Charcoal,12,273.9,SEL00001,4.2,96
+PRD80542,Electronics,Smartphones,Copperfield,Charcoal,,867.84,SEL10006,3.7,2
+PRD80543,Apparel,Activewear,Terra,Green,XXL,493.31,SEL10023,4.5,83
+PRD80544,Sports & Outdoor,Cycling,Ironbark,Burgundy,,3827.7,SEL00001,5.0,9
+PRD80545,Footwear,Formal Shoes,Aurora,Blue,10,2309.16,SEL10168,4.2,3
+PRD80546,Apparel,Underwear,Nordveld,Green,XXL,465.02,SEL10205,3.5,7
+PRD80547,Home & Kitchen,Storage,Savanna,White,,2227.33,SEL10026,4.3,43
+PRD80548,Electronics,Tablets,Ironbark,White,,1477.46,SEL10154,4.3,30
+PRD80549,Home & Kitchen,Cookware,Kestrel,Red,,465.93,SEL10103,4.8,3
+PRD80550,Footwear,Sneakers,Aurora,Green,11,551.35,SEL00001,2.7,12
+PRD80551,Apparel,Underwear,Lumo,Blue,M,600.05,SEL10021,3.3,1
+PRD80552,Electronics,Audio,Solace,Grey,,1644.27,SEL10170,4.1,4
+PRD80553,Apparel,Swimwear,Solace,Pink,L,661.1,SEL10011,4.0,36
+PRD80554,Health,Medical Devices,Solace,Burgundy,,284.66,SEL10165,4.4,56
+PRD80555,Health,Medical Devices,Nordveld,Beige,,280.38,SEL10021,2.9,40
+PRD80556,Footwear,Sandals,Copperfield,Brown,9,464.31,SEL10163,4.2,120
+PRD80557,Beauty,Makeup,Kestrel,Pink,,532.84,SEL10148,3.3,7
+PRD80558,Beauty,Makeup,Lumo,Cream,,279.11,SEL10147,3.3,67
+PRD80559,Beauty,Makeup,Terra,Blue,,326.51,SEL10188,4.5,28
+PRD80560,Toys & Games,Board Games,Ridgeline,Burgundy,,205.71,SEL10199,3.5,6
+PRD80561,Apparel,Women's Tops,Bantu,Burgundy,XXL,177.46,SEL10016,3.6,46
+PRD80562,Home & Kitchen,Bedding,Bantu,Blue,,871.44,SEL00001,4.1,74
+PRD80563,Apparel,Knitwear,Aurora,Cream,XL,289.58,SEL00001,2.2,19
+PRD80564,Apparel,Men's Trousers,Savanna,Cream,M,393.07,SEL10087,4.2,23
+PRD80565,Apparel,Underwear,Aurora,Burgundy,M,489.65,SEL00001,3.8,2
+PRD80566,Books & Media,Textbooks,Savanna,Navy,,85.42,SEL10103,2.8,48
+PRD80567,Health,Medical Devices,Kestrel,Burgundy,,451.82,SEL10103,4.7,11
+PRD80568,Toys & Games,Outdoor Toys,Volt,Cream,,418.46,SEL00001,4.1,182
+PRD80569,Footwear,Slippers,Petal & Pine,Charcoal,7,1154.54,SEL00001,2.8,115
+PRD80570,Beauty,Fragrance,Bantu,Beige,,476.65,SEL10183,3.9,8
+PRD80571,Health,Personal Care,Copperfield,Red,,206.69,SEL00001,4.7,48
+PRD80572,Apparel,Women's Tops,Nimbus,Multi,XL,300.92,SEL10115,3.6,40
+PRD80573,Electronics,Tablets,Kestrel,Multi,,463.58,SEL10008,3.9,34
+PRD80574,Apparel,Swimwear,Solace,Navy,L,262.11,SEL00001,4.2,142
+PRD80575,Electronics,Smartwatches,Savanna,Charcoal,,3206.17,SEL10002,4.2,588
+PRD80576,Baby & Kids,Baby Clothing,Copperfield,Burgundy,M,112.04,SEL10120,4.5,12
+PRD80577,Apparel,Knitwear,Ridgeline,Navy,XL,333.2,SEL10109,4.7,96
+PRD80578,Footwear,Sneakers,Petal & Pine,Pink,8,493.21,SEL10056,4.2,169
+PRD80579,Home & Kitchen,Bedding,Copperfield,Black,,285.36,SEL10011,3.3,64
+PRD80580,Footwear,Sneakers,Ridgeline,Beige,4,721.45,SEL10136,4.6,17
+PRD80581,Footwear,Slippers,Savanna,Beige,9,1842.42,SEL10004,4.6,23
+PRD80582,Footwear,Boots,Petal & Pine,Green,4,736.77,SEL10110,3.5,56
+PRD80583,Apparel,Underwear,Copperfield,Green,XL,274.64,SEL10026,3.9,68
+PRD80584,Apparel,Underwear,Nordveld,Blue,L,225.49,SEL10176,4.3,2
+PRD80585,Apparel,Underwear,Aurora,Burgundy,S,145.97,SEL10020,4.3,48
+PRD80586,Sports & Outdoor,Camping,Mzansi Made,Green,,366.95,SEL10201,4.2,96
+PRD80587,Electronics,Accessories,Bantu,Pink,,6764.08,SEL00001,3.8,100
+PRD80588,Electronics,Cameras,Aurora,Brown,,3188.38,SEL10006,4.3,662
+PRD80589,Apparel,Outerwear,Petal & Pine,Red,S,663.09,SEL10040,3.5,18
+PRD80590,Electronics,Laptops,Kestrel,White,,2222.65,SEL10046,3.7,21
+PRD80591,Beauty,Haircare,Lumo,Brown,,686.95,SEL00001,4.2,9
+PRD80592,Electronics,Smartphones,Ridgeline,Green,,2376.46,SEL10067,3.5,2
+PRD80593,Footwear,Sneakers,Aurora,Charcoal,10,358.59,SEL00001,3.5,11
+PRD80594,Electronics,Laptops,Petal & Pine,Blue,,3118.42,SEL10075,4.6,19
+PRD80595,Books & Media,Fiction,Copperfield,Grey,,342.67,SEL10038,4.1,112
+PRD80596,Toys & Games,Educational Toys,Bantu,Cream,,150.38,SEL10115,3.4,19
+PRD80597,Footwear,Boots,Bantu,White,12,1020.08,SEL10108,3.1,6
+PRD80598,Electronics,Smartphones,Nordveld,Pink,,8262.64,SEL00001,4.0,29
+PRD80599,Sports & Outdoor,Camping,Copperfield,Navy,,1998.61,SEL10184,4.4,7
+PRD80600,Books & Media,Non-Fiction,Lumo,Black,,415.41,SEL10194,2.9,67
+PRD80601,Home & Kitchen,Cookware,Copperfield,Green,,493.93,SEL10089,3.1,10
+PRD80602,Footwear,Slippers,Copperfield,Blue,8,717.31,SEL10093,3.7,123
+PRD80603,Toys & Games,Board Games,Nimbus,Navy,,157.88,SEL10183,4.6,2
+PRD80604,Home & Kitchen,Lighting,Savanna,Multi,,390.61,SEL10005,4.4,61
+PRD80605,Toys & Games,Outdoor Toys,Nimbus,Olive,,225.33,SEL10016,4.6,10
+PRD80606,Health,Supplements,Mzansi Made,Beige,,289.76,SEL10095,3.6,13
+PRD80607,Electronics,Smartphones,Terra,Blue,,1360.4,SEL10152,4.0,19
+PRD80608,Beauty,Skincare,Ridgeline,Brown,,383.55,SEL10173,4.7,17
+PRD80609,Electronics,Laptops,Bantu,Pink,,4249.19,SEL00001,3.5,45
+PRD80610,Home & Kitchen,Lighting,Mzansi Made,Navy,,755.5,SEL00001,3.7,35
+PRD80611,Beauty,Haircare,Nordveld,Black,,117.89,SEL10198,3.6,370
+PRD80612,Baby & Kids,Nursery,Bantu,Cream,XS,228.45,SEL10174,4.6,4
+PRD80613,Sports & Outdoor,Team Sports,Bantu,Burgundy,,221.99,SEL10112,4.8,64
+PRD80614,Apparel,Denim,Volt,Red,XS,51.24,SEL00001,5.0,25
+PRD80615,Apparel,Swimwear,Savanna,White,XL,221.99,SEL00001,3.5,8
+PRD80616,Baby & Kids,Nappies,Kestrel,Brown,M,636.89,SEL10113,4.2,30
+PRD80617,Electronics,Accessories,Kestrel,Grey,,768.63,SEL10191,3.9,34
+PRD80618,Electronics,Audio,Ridgeline,Blue,,2129.43,SEL00001,2.6,49
+PRD80619,Baby & Kids,Nursery,Ridgeline,Multi,S,448.68,SEL10097,4.6,210
+PRD80620,Electronics,Audio,Solace,Navy,,8674.24,SEL10206,4.3,6
+PRD80621,Electronics,Tablets,Petal & Pine,Red,,3933.06,SEL00001,3.6,5
+PRD80622,Apparel,Knitwear,Nimbus,Pink,XL,291.03,SEL10009,4.9,36
+PRD80623,Apparel,Denim,Savanna,Navy,XS,772.09,SEL00001,4.6,161
+PRD80624,Health,Medical Devices,Ridgeline,Pink,,137.0,SEL10125,3.6,30
+PRD80625,Home & Kitchen,Cookware,Ironbark,Multi,,415.17,SEL10101,4.0,25
+PRD80626,Electronics,Tablets,Ridgeline,Pink,,811.41,SEL10132,4.8,114
+PRD80627,Apparel,Denim,Lumo,Navy,XS,1001.71,SEL10031,3.2,4
+PRD80628,Beauty,Haircare,Savanna,Grey,,73.29,SEL10101,3.2,0
+PRD80629,Apparel,Denim,Savanna,Charcoal,XS,655.41,SEL10034,4.6,2
+PRD80630,Apparel,Swimwear,Volt,Cream,M,777.05,SEL10011,3.6,12
+PRD80631,Home & Kitchen,Cookware,Aurora,Green,,423.39,SEL10111,4.7,5
+PRD80632,Apparel,Denim,Nimbus,Burgundy,M,370.81,SEL10182,3.6,16
+PRD80633,Apparel,Men's Shirts,Ridgeline,Red,S,2173.05,SEL00001,3.9,265
+PRD80634,Apparel,Men's Shirts,Copperfield,Charcoal,XS,244.87,SEL10066,2.9,8
+PRD80635,Apparel,Outerwear,Mzansi Made,Brown,L,787.44,SEL10040,4.1,30
+PRD80636,Apparel,Denim,Savanna,Blue,XS,98.91,SEL10099,4.2,70
+PRD80637,Electronics,Headphones,Aurora,Blue,,9124.71,SEL00001,4.4,177
+PRD80638,Apparel,Underwear,Aurora,Green,XXL,619.58,SEL10159,4.9,35
+PRD80639,Apparel,Underwear,Aurora,Black,S,158.22,SEL10102,3.9,15
+PRD80640,Electronics,Laptops,Volt,Cream,,1395.41,SEL10171,3.4,48
+PRD80641,Electronics,Headphones,Petal & Pine,Black,,893.47,SEL10124,3.2,35
+PRD80642,Beauty,Skincare,Petal & Pine,Navy,,681.84,SEL10171,3.4,8
+PRD80643,Electronics,Tablets,Solace,Black,,1743.37,SEL10057,4.1,7
+PRD80644,Footwear,Slippers,Savanna,Green,6,539.29,SEL10006,5.0,6
+PRD80645,Books & Media,Music & Film,Lumo,Multi,,472.22,SEL00001,3.6,15
+PRD80646,Books & Media,Non-Fiction,Kestrel,Grey,,138.96,SEL10006,3.7,318
+PRD80647,Electronics,Smartwatches,Nordveld,Pink,,293.02,SEL10151,4.9,24
+PRD80648,Apparel,Knitwear,Solace,Green,XL,405.53,SEL00001,3.3,20
+PRD80649,Home & Kitchen,Cookware,Ironbark,Brown,,294.42,SEL10138,3.9,33
+PRD80650,Books & Media,Textbooks,Mzansi Made,Blue,,117.18,SEL00001,4.0,158
+PRD80651,Electronics,Accessories,Kestrel,Burgundy,,4299.62,SEL10142,3.7,20
+PRD80652,Footwear,Sneakers,Copperfield,Green,3,1741.28,SEL10076,3.9,168
+PRD80653,Apparel,Knitwear,Ironbark,Black,XXL,235.01,SEL10114,3.6,10
+PRD80654,Electronics,Headphones,Ironbark,Burgundy,,6730.73,SEL10079,3.9,281
+PRD80655,Beauty,Skincare,Ironbark,Multi,,421.64,SEL10204,3.3,4
+PRD80656,Sports & Outdoor,Fitness Equipment,Ridgeline,Charcoal,,756.28,SEL10052,4.4,46
+PRD80657,Beauty,Skincare,Aurora,Green,,55.92,SEL10115,3.0,525
+PRD80658,Sports & Outdoor,Cycling,Mzansi Made,Navy,,1628.75,SEL10125,3.6,25
+PRD80659,Beauty,Skincare,Bantu,Navy,,181.06,SEL10123,4.2,317
+PRD80660,Toys & Games,Puzzles,Nimbus,Navy,,481.41,SEL00001,2.8,54
+PRD80661,Beauty,Haircare,Nimbus,Multi,,702.95,SEL10094,4.4,205
+PRD80662,Beauty,Skincare,Solace,Grey,,486.1,SEL10209,4.3,6
+PRD80663,Sports & Outdoor,Camping,Petal & Pine,Olive,,634.16,SEL10074,3.9,23
+PRD80664,Electronics,Accessories,Copperfield,Green,,2000.45,SEL10212,4.1,119
+PRD80665,Home & Kitchen,Lighting,Solace,Burgundy,,365.67,SEL10056,4.7,480
+PRD80666,Home & Kitchen,Small Appliances,Solace,Beige,,1102.06,SEL10010,4.2,147
+PRD80667,Electronics,Cameras,Lumo,Brown,,1826.37,SEL10211,5.0,11
+PRD80668,Baby & Kids,Baby Clothing,Kestrel,White,M,324.38,SEL10143,4.6,6
+PRD80669,Electronics,Smartphones,Mzansi Made,Charcoal,,502.92,SEL10211,4.7,59
+PRD80670,Apparel,Underwear,Ridgeline,Olive,M,240.09,SEL10086,3.4,133
+PRD80671,Apparel,Activewear,Copperfield,Brown,XS,68.25,SEL10184,3.6,9
+PRD80672,Home & Kitchen,Small Appliances,Copperfield,White,,898.18,SEL00001,4.3,576
+PRD80673,Apparel,Knitwear,Nordveld,Navy,L,272.29,SEL00001,5.0,53
+PRD80674,Footwear,Sneakers,Ironbark,Navy,11,1013.82,SEL00001,3.0,90
+PRD80675,Beauty,Haircare,Terra,Black,,319.53,SEL00001,4.3,337
+PRD80676,Home & Kitchen,Lighting,Bantu,White,,307.06,SEL10141,3.2,27
+PRD80677,Electronics,Laptops,Copperfield,Red,,3886.92,SEL10168,3.6,141
+PRD80678,Home & Kitchen,Lighting,Nordveld,Multi,,923.35,SEL10141,4.2,22
+PRD80679,Baby & Kids,Feeding,Nimbus,Brown,XXL,93.65,SEL00001,3.1,10
+PRD80680,Baby & Kids,Feeding,Ironbark,Brown,XL,191.42,SEL10023,4.2,58
+PRD80681,Apparel,Men's Shirts,Bantu,Brown,XXL,310.17,SEL10032,3.4,10
+PRD80682,Baby & Kids,Feeding,Petal & Pine,Green,L,215.58,SEL10134,4.3,13
+PRD80683,Beauty,Makeup,Kestrel,Pink,,295.25,SEL10038,4.4,16
+PRD80684,Books & Media,Non-Fiction,Lumo,Green,,188.96,SEL10071,4.3,10
+PRD80685,Apparel,Women's Dresses,Mzansi Made,Olive,M,467.93,SEL10130,3.3,158
+PRD80686,Beauty,Fragrance,Nordveld,Green,,238.37,SEL00001,5.0,18
+PRD80687,Footwear,Formal Shoes,Bantu,Multi,11,655.97,SEL00001,3.9,51
+PRD80688,Books & Media,Music & Film,Petal & Pine,Black,,177.35,SEL10141,3.9,43
+PRD80689,Baby & Kids,Nursery,Aurora,Blue,XS,74.76,SEL00001,4.2,141
+PRD80690,Apparel,Knitwear,Nordveld,Multi,XXL,228.85,SEL10127,3.8,14
+PRD80691,Toys & Games,Board Games,Aurora,Brown,,100.27,SEL10016,3.8,11
+PRD80692,Baby & Kids,Nursery,Copperfield,Charcoal,XXL,114.18,SEL10134,5.0,3
+PRD80693,Sports & Outdoor,Cycling,Aurora,Black,,179.53,SEL10184,3.1,40
+PRD80694,Electronics,Accessories,Solace,Olive,,2659.72,SEL10065,3.7,158
+PRD80695,Electronics,Smartphones,Bantu,Pink,,3902.19,SEL10077,2.9,31
+PRD80696,Footwear,Sneakers,Copperfield,Cream,10,369.28,SEL10021,3.3,22
+PRD80697,Electronics,Tablets,Bantu,Burgundy,,802.96,SEL10160,3.3,5
+PRD80698,Beauty,Haircare,Solace,Red,,192.18,SEL10182,4.8,86
+PRD80699,Sports & Outdoor,Camping,Petal & Pine,Green,,1925.07,SEL10019,4.7,133
+PRD80700,Health,Supplements,Ironbark,Olive,,678.51,SEL10150,3.8,13
+PRD80701,Footwear,Sneakers,Nordveld,Black,11,292.43,SEL10161,3.7,166
+PRD80702,Apparel,Women's Dresses,Ridgeline,Cream,XXL,995.23,SEL00001,3.3,6
+PRD80703,Sports & Outdoor,Fitness Equipment,Nordveld,Black,,908.91,SEL10176,3.5,9
+PRD80704,Home & Kitchen,Bedding,Kestrel,Multi,,137.49,SEL10093,4.2,77
+PRD80705,Home & Kitchen,Lighting,Mzansi Made,Brown,,749.81,SEL10000,3.3,85
+PRD80706,Footwear,Sandals,Savanna,White,8,564.81,SEL00001,3.4,42
+PRD80707,Home & Kitchen,Small Appliances,Nimbus,Multi,,348.72,SEL10195,3.8,23
+PRD80708,Apparel,Activewear,Bantu,Black,XXL,557.29,SEL00001,4.7,50
+PRD80709,Toys & Games,Outdoor Toys,Volt,Multi,,1381.73,SEL10179,3.5,258
+PRD80710,Electronics,Tablets,Kestrel,Pink,,6896.22,SEL10151,4.2,10
+PRD80711,Apparel,Women's Tops,Terra,Beige,XS,369.69,SEL00001,3.5,19
+PRD80712,Apparel,Women's Tops,Nimbus,Charcoal,XS,696.04,SEL10134,4.2,43
+PRD80713,Apparel,Men's Shirts,Aurora,Beige,L,753.66,SEL10010,3.8,76
+PRD80714,Apparel,Swimwear,Copperfield,Grey,XL,139.94,SEL10051,3.6,37
+PRD80715,Apparel,Activewear,Ironbark,Burgundy,M,391.31,SEL10189,4.6,29
+PRD80716,Beauty,Haircare,Solace,Blue,,124.97,SEL10198,4.0,4
+PRD80717,Footwear,Boots,Savanna,Brown,8,1065.67,SEL10183,5.0,0
+PRD80718,Health,Supplements,Solace,Navy,,338.56,SEL00001,4.6,298
+PRD80719,Apparel,Underwear,Copperfield,Olive,XS,245.04,SEL00001,3.6,902
+PRD80720,Apparel,Women's Dresses,Solace,Navy,XXL,93.41,SEL10048,4.0,59
+PRD80721,Electronics,Smartphones,Kestrel,Olive,,3253.23,SEL10176,3.4,31
+PRD80722,Apparel,Knitwear,Bantu,Burgundy,XXL,448.12,SEL10168,4.0,353
+PRD80723,Electronics,Headphones,Savanna,Green,,1157.74,SEL10004,4.3,211
+PRD80724,Apparel,Denim,Mzansi Made,Navy,M,1629.59,SEL10030,4.1,21
+PRD80725,Footwear,Formal Shoes,Lumo,Charcoal,11,535.33,SEL00001,4.5,23
+PRD80726,Baby & Kids,Nappies,Ridgeline,Charcoal,XL,786.95,SEL10066,3.5,102
+PRD80727,Electronics,Audio,Mzansi Made,Beige,,170.54,SEL00001,3.8,5
+PRD80728,Apparel,Men's Trousers,Aurora,Pink,M,306.87,SEL00001,3.8,74
+PRD80729,Electronics,Audio,Ridgeline,Multi,,5950.81,SEL10091,3.0,21
+PRD80730,Baby & Kids,Feeding,Terra,Green,L,206.99,SEL10058,3.0,18
+PRD80731,Beauty,Makeup,Terra,Green,,817.02,SEL00001,4.5,24
+PRD80732,Footwear,Sandals,Ridgeline,White,12,809.06,SEL10009,3.4,60
+PRD80733,Apparel,Knitwear,Nimbus,Charcoal,L,166.1,SEL10046,3.8,83
+PRD80734,Footwear,Boots,Lumo,Charcoal,11,1270.69,SEL10037,3.6,267
+PRD80735,Apparel,Swimwear,Kestrel,Beige,XXL,213.45,SEL10068,3.8,82
+PRD80736,Apparel,Women's Tops,Savanna,Grey,XS,221.47,SEL10110,4.2,38
+PRD80737,Footwear,Slippers,Ironbark,Grey,7,1125.9,SEL10011,5.0,8
+PRD80738,Home & Kitchen,Storage,Nimbus,Cream,,224.81,SEL10042,3.8,24
+PRD80739,Toys & Games,Outdoor Toys,Terra,Olive,,889.49,SEL10179,3.8,145
+PRD80740,Footwear,Slippers,Terra,Red,3,751.7,SEL10073,4.4,11
+PRD80741,Apparel,Swimwear,Savanna,Green,XL,550.76,SEL10147,3.8,37
+PRD80742,Health,Supplements,Mzansi Made,Beige,,54.72,SEL10167,3.6,69
+PRD80743,Electronics,Tablets,Nordveld,White,,949.79,SEL10075,3.4,7
+PRD80744,Footwear,Formal Shoes,Ironbark,Green,12,781.3,SEL10114,3.4,5
+PRD80745,Home & Kitchen,Decor,Volt,Grey,,1121.98,SEL10102,4.3,250
+PRD80746,Electronics,Headphones,Mzansi Made,Brown,,761.61,SEL00001,5.0,4
+PRD80747,Footwear,Formal Shoes,Ironbark,Pink,11,1140.61,SEL10113,3.9,7
+PRD80748,Electronics,Accessories,Aurora,Brown,,1047.53,SEL10164,4.3,1
+PRD80749,Electronics,Accessories,Kestrel,Navy,,4559.17,SEL10174,4.2,257
+PRD80750,Home & Kitchen,Bedding,Aurora,Beige,,1333.52,SEL10182,4.5,6
+PRD80751,Apparel,Denim,Ironbark,Multi,XXL,945.05,SEL10028,3.6,836
+PRD80752,Electronics,Accessories,Solace,Green,,1477.65,SEL10120,3.7,5
+PRD80753,Home & Kitchen,Decor,Ridgeline,Blue,,650.85,SEL10150,3.0,31
+PRD80754,Baby & Kids,Nappies,Volt,Green,XS,337.74,SEL00001,4.3,16
+PRD80755,Home & Kitchen,Lighting,Petal & Pine,Charcoal,,145.5,SEL10209,4.2,31
+PRD80756,Books & Media,Fiction,Lumo,Black,,221.14,SEL10108,4.1,2
+PRD80757,Baby & Kids,Nappies,Lumo,Navy,XXL,82.43,SEL10020,4.0,50
+PRD80758,Apparel,Men's Shirts,Petal & Pine,Red,XS,205.72,SEL10071,4.8,776
+PRD80759,Home & Kitchen,Storage,Aurora,Grey,,475.52,SEL10034,2.9,2
+PRD80760,Sports & Outdoor,Team Sports,Copperfield,Black,,1254.69,SEL00001,3.9,87
+PRD80761,Beauty,Haircare,Ridgeline,Grey,,255.92,SEL00001,3.8,5
+PRD80762,Electronics,Smartwatches,Aurora,Olive,,1333.74,SEL10074,3.2,13
+PRD80763,Books & Media,Non-Fiction,Copperfield,Cream,,72.82,SEL10018,2.8,8
+PRD80764,Apparel,Knitwear,Terra,Green,L,286.33,SEL00001,2.8,11
+PRD80765,Apparel,Denim,Nimbus,Blue,XL,549.84,SEL10176,3.1,49
+PRD80766,Beauty,Fragrance,Lumo,Multi,,398.14,SEL10154,4.2,12
+PRD80767,Apparel,Swimwear,Ironbark,Red,XXL,537.47,SEL00001,4.5,210
+PRD80768,Beauty,Haircare,Nimbus,Burgundy,,29,SEL10077,4.1,27
+PRD80769,Electronics,Cameras,Nordveld,Black,,662.21,SEL00001,3.0,11
+PRD80770,Electronics,Tablets,Kestrel,Green,,8857.16,SEL10018,3.6,91
+PRD80771,Home & Kitchen,Storage,Mzansi Made,Red,,100.61,SEL10023,3.1,15
+PRD80772,Apparel,Underwear,Terra,White,S,419.3,SEL10034,3.9,77
+PRD80773,Electronics,Accessories,Bantu,Grey,,1520.49,SEL10030,4.4,107
+PRD80774,Baby & Kids,Nappies,Ironbark,Navy,XL,357.26,SEL00001,4.9,6
+PRD80775,Home & Kitchen,Storage,Kestrel,Burgundy,,837.79,SEL10173,4.2,130
+PRD80776,Footwear,Sneakers,Lumo,Pink,7,355.97,SEL10182,3.3,168
+PRD80777,Apparel,Men's Trousers,Volt,Red,XXL,310.09,SEL00001,3.9,35
+PRD80778,Electronics,Smartphones,Lumo,Charcoal,,1809.42,SEL10047,3.0,9
+PRD80779,Toys & Games,Educational Toys,Ironbark,Olive,,218.59,SEL10109,4.1,157
+PRD80780,Beauty,Makeup,Savanna,Navy,,450.01,SEL10134,2.6,243
+PRD80781,Footwear,Formal Shoes,Petal & Pine,Beige,4,412.68,SEL10087,3.2,56
+PRD80782,Electronics,Laptops,Savanna,Cream,,2043.07,SEL10202,3.1,21
+PRD80783,Electronics,Tablets,Kestrel,Brown,,8364.71,SEL00001,3.2,1
+PRD80784,Electronics,Laptops,Volt,Charcoal,,2822.0,SEL10055,4.3,20
+PRD80785,Apparel,Men's Trousers,Ironbark,White,S,312.88,SEL10158,3.7,70
+PRD80786,Electronics,Audio,Petal & Pine,Red,,6768.68,SEL10026,3.9,9
+PRD80787,Home & Kitchen,Small Appliances,Solace,Olive,,269.87,SEL00001,3.2,818
+PRD80788,Apparel,Women's Tops,Nordveld,Green,L,427.21,SEL10157,3.1,4
+PRD80789,Footwear,Sandals,Bantu,Pink,8,1390.17,SEL10130,5.0,62
+PRD80790,Sports & Outdoor,Camping,Savanna,Grey,,236.83,SEL00001,3.7,10
+PRD80791,Health,Medical Devices,Volt,Multi,,111.08,SEL10141,4.5,252
+PRD80792,Beauty,Haircare,Kestrel,Cream,,548.58,SEL10209,3.8,52
+PRD80793,Apparel,Outerwear,Mzansi Made,Green,S,193.53,SEL10189,4.2,51
+PRD80794,Apparel,Men's Shirts,Solace,Cream,S,460.82,SEL10055,3.9,85
+PRD80795,Electronics,Accessories,Nimbus,Green,,1753.76,SEL10041,4.1,83
+PRD80796,Electronics,Headphones,Volt,Multi,,1970.49,SEL10117,4.5,102
+PRD80797,Books & Media,Music & Film,Lumo,Charcoal,,216.43,SEL00001,4.0,86
+PRD80798,Sports & Outdoor,Team Sports,Ridgeline,Olive,,138.9,SEL10031,3.0,6
+PRD80799,Electronics,Tablets,Volt,Black,,1829.36,SEL10033,4.3,33
+PRD80800,Footwear,Sandals,Volt,Blue,10,284.73,SEL10048,3.8,7
+PRD80801,Baby & Kids,Feeding,Solace,Black,XS,1159.73,SEL10152,5.0,106
+PRD80802,Electronics,Smartwatches,Copperfield,Blue,,4479.62,SEL00001,4.5,10
+PRD80803,Electronics,Smartphones,Lumo,Olive,,166.22,SEL00001,3.9,0
+PRD80804,Apparel,Knitwear,Kestrel,Brown,M,354.08,SEL10205,4.2,555
+PRD80805,Home & Kitchen,Bedding,Aurora,Pink,,793.76,SEL10036,3.9,2
+PRD80806,Beauty,Haircare,Petal & Pine,Pink,,669.6,SEL00001,2.7,52
+PRD80807,Toys & Games,Puzzles,Kestrel,Black,,215.16,SEL10031,4.3,4
+PRD80808,Electronics,Smartwatches,Mzansi Made,Multi,,1620.3,SEL00001,4.0,150
+PRD80809,Electronics,Tablets,Solace,Black,,1362.58,SEL10064,3.6,40
+PRD80810,Electronics,Accessories,Nordveld,Cream,,2877.14,SEL10205,3.1,3
+PRD80811,Books & Media,Textbooks,Savanna,Red,,211.71,SEL10130,4.9,8
+PRD80812,Home & Kitchen,Decor,Lumo,Blue,,796.74,SEL10135,4.1,24
+PRD80813,Sports & Outdoor,Fitness Equipment,Kestrel,Charcoal,,1312.23,SEL00001,4.3,91
+PRD80814,Electronics,Audio,Solace,White,,2792.37,SEL10099,3.4,97
+PRD80815,Electronics,Audio,Ridgeline,Charcoal,,1889.4,SEL00001,3.9,4
+PRD80816,Home & Kitchen,Small Appliances,Solace,Grey,,892.27,SEL10013,4.7,2
+PRD80817,Electronics,Audio,Ridgeline,Black,,1492.89,SEL00001,4.5,35
+PRD80818,Apparel,Knitwear,Nordveld,Cream,S,379.09,SEL10122,4.4,328
+PRD80819,Apparel,Denim,Nimbus,White,XS,313.34,SEL10045,4.6,34
+PRD80820,Home & Kitchen,Cookware,Nordveld,Pink,,583.44,SEL10043,3.8,54
+PRD80821,Sports & Outdoor,Cycling,Bantu,Navy,,249.36,SEL00001,3.0,27
+PRD80822,Electronics,Laptops,Solace,Pink,,1299.55,SEL10203,3.7,21
+PRD80823,Footwear,Sneakers,Lumo,Navy,3,681.51,SEL10204,3.6,5
+PRD80824,Toys & Games,Puzzles,Kestrel,Black,,521.39,SEL10169,4.5,4
+PRD80825,Health,Personal Care,Lumo,Blue,,180.05,SEL10087,3.5,39
+PRD80826,Toys & Games,Board Games,Petal & Pine,Beige,,472.87,SEL10159,4.2,56
+PRD80827,Footwear,Slippers,Ironbark,Red,9,270.92,SEL10008,4.8,29
+PRD80828,Electronics,Accessories,Bantu,Burgundy,,1823.84,SEL10130,4.0,29
+PRD80829,Electronics,Audio,Ridgeline,Olive,,1389.73,SEL10029,3.9,5
+PRD80830,Footwear,Sandals,Savanna,Green,11,605.46,SEL00001,4.4,68
+PRD80831,Toys & Games,Board Games,Nimbus,Green,,337.8,SEL10127,4.2,17
+PRD80832,Home & Kitchen,Storage,Kestrel,Olive,,451.0,SEL00001,4.0,58
+PRD80833,Electronics,Smartphones,Ridgeline,White,,5369.07,SEL10030,4.5,42
+PRD80834,Sports & Outdoor,Team Sports,Nordveld,Blue,,3786.5,SEL10180,4.1,6
+PRD80835,Baby & Kids,Nappies,Nimbus,Cream,XXL,105.59,SEL00001,4.9,21
+PRD80836,Electronics,Smartphones,Nordveld,Black,,3558.26,SEL00001,4.8,292
+PRD80837,Home & Kitchen,Decor,Kestrel,Red,,329.33,SEL00001,3.4,57
+PRD80838,Beauty,Haircare,Nordveld,Multi,,212.81,SEL10058,4.2,5
+PRD80839,Electronics,Smartphones,Kestrel,Olive,,4363.33,SEL10173,4.3,23
+PRD80840,Apparel,Denim,Mzansi Made,Navy,XL,457.78,SEL00001,3.9,17
+PRD80841,Books & Media,Textbooks,Mzansi Made,Pink,,148.96,SEL10102,4.0,20
+PRD80842,Baby & Kids,Baby Clothing,Ironbark,Blue,XL,141.33,SEL00001,4.3,42
+PRD80843,Baby & Kids,Baby Clothing,Lumo,Pink,XS,277.11,SEL00001,4.6,4
+PRD80844,Electronics,Headphones,Kestrel,Brown,,2202.9,SEL10030,3.4,7
+PRD80845,Home & Kitchen,Decor,Copperfield,Black,,615.33,SEL10205,4.7,48
+PRD80846,Apparel,Denim,Savanna,Green,XXL,696.76,SEL10092,4.9,28
+PRD80847,Footwear,Boots,Aurora,Black,7,1929.72,SEL10073,3.3,56
+PRD80848,Footwear,Sandals,Aurora,Cream,4,796.94,SEL10124,2.4,3
+PRD80849,Beauty,Haircare,Solace,Blue,,354.08,SEL10122,4.1,42
+PRD80850,Apparel,Women's Dresses,Aurora,Pink,M,555.53,SEL10142,4.1,23
+PRD80851,Sports & Outdoor,Team Sports,Lumo,Cream,,723.05,SEL10092,3.7,9
+PRD80852,Beauty,Skincare,Mzansi Made,Black,,496.36,SEL00001,2.8,154
+PRD80853,Home & Kitchen,Bedding,Copperfield,Red,,751.56,SEL10123,4.1,23
+PRD80854,Sports & Outdoor,Cycling,Ironbark,Burgundy,,543.98,SEL10174,4.9,13
+PRD80855,Sports & Outdoor,Cycling,Volt,Burgundy,,2094.79,SEL10009,3.7,22
+PRD80856,Home & Kitchen,Lighting,Volt,Black,,402.95,SEL10057,4.6,49
+PRD80857,Electronics,Smartwatches,Ironbark,Green,,6679.85,SEL10061,5.0,16
+PRD80858,Apparel,Women's Tops,Savanna,Charcoal,XL,143.96,SEL10020,3.3,77
+PRD80859,Home & Kitchen,Bedding,Copperfield,Beige,,349.02,SEL10089,4.0,10
+PRD80860,Home & Kitchen,Cookware,Solace,Multi,,153.69,SEL10020,3.5,2
+PRD80861,Baby & Kids,Feeding,Ridgeline,Pink,S,143.75,SEL00001,3.3,47
+PRD80862,Sports & Outdoor,Cycling,Nimbus,Navy,,193.07,SEL00001,4.8,45
+PRD80863,Electronics,Smartwatches,Copperfield,White,,572.86,SEL10157,4.6,37
+PRD80864,Apparel,Outerwear,Terra,Multi,M,1952.37,SEL10066,4.4,12
+PRD80865,Baby & Kids,Baby Clothing,Aurora,Beige,XXL,530.11,SEL00001,4.5,131
+PRD80866,Home & Kitchen,Lighting,Copperfield,Charcoal,,271.43,SEL10041,4.6,83
+PRD80867,Apparel,Swimwear,Mzansi Made,Cream,XXL,759.44,SEL00001,4.3,1
+PRD80868,Apparel,Men's Trousers,Mzansi Made,Burgundy,XXL,334.01,SEL10116,3.9,6
+PRD80869,Apparel,Men's Trousers,Nordveld,Black,S,351.02,SEL00001,3.6,8
+PRD80870,Toys & Games,Board Games,Mzansi Made,Navy,,181.31,SEL10037,5.0,82
+PRD80871,Electronics,Smartwatches,Lumo,Olive,,4772.21,SEL10037,4.4,47
+PRD80872,Apparel,Outerwear,Copperfield,Multi,M,417.09,SEL10029,3.5,15
+PRD80873,Toys & Games,Educational Toys,Lumo,Green,,127.74,SEL10125,3.8,13
+PRD80874,Footwear,Boots,Copperfield,Multi,5,1050.62,SEL10164,4.4,224
+PRD80875,Health,Supplements,Nimbus,Beige,,1209.26,SEL10206,4.7,67
+PRD80876,Sports & Outdoor,Fitness Equipment,Petal & Pine,Blue,,339.48,SEL10028,3.5,52
+PRD80877,Beauty,Haircare,Aurora,Olive,,329.82,SEL10019,4.3,9
+PRD80878,Electronics,Headphones,Ridgeline,Green,,1014.01,SEL10093,3.5,14
+PRD80879,Sports & Outdoor,Camping,Mzansi Made,Burgundy,,768.08,SEL10032,4.0,352
+PRD80880,Electronics,Smartwatches,Aurora,Navy,,3346.53,SEL00001,3.6,8
+PRD80881,Electronics,Laptops,Copperfield,Olive,,451.21,SEL10107,3.7,3
+PRD80882,Home & Kitchen,Bedding,Nordveld,White,,1247.42,SEL10032,3.4,67
+PRD80883,Apparel,Women's Dresses,Bantu,Beige,XXL,1026.38,SEL10013,4.2,68
+PRD80884,Beauty,Skincare,Petal & Pine,Beige,,736.4,SEL10112,3.5,110
+PRD80885,Electronics,Headphones,Terra,Brown,,1134.77,SEL10207,3.8,154
+PRD80886,Footwear,Slippers,Copperfield,Green,11,677.08,SEL10093,3.6,93
+PRD80887,Books & Media,Music & Film,Lumo,Navy,,538.69,SEL10010,5.0,10
+PRD80888,Toys & Games,Puzzles,Kestrel,Beige,,693.08,SEL10107,4.1,31
+PRD80889,Baby & Kids,Nappies,Ridgeline,Red,XL,122.49,SEL00001,4.9,321
+PRD80890,Electronics,Cameras,Mzansi Made,Olive,,5370.64,SEL10206,4.1,61
+PRD80891,Home & Kitchen,Small Appliances,Terra,Charcoal,,316.87,SEL10068,4.2,18
+PRD80892,Books & Media,Textbooks,Savanna,Pink,,86.21,SEL10206,4.0,177
+PRD80893,Footwear,Slippers,Nordveld,Blue,10,495.19,SEL10057,3.9,4
+PRD80894,Footwear,Sandals,Ironbark,Cream,7,782.46,SEL10166,4.5,6
+PRD80895,Beauty,Skincare,Savanna,Brown,,220.29,SEL00001,3.8,131
+PRD80896,Apparel,Denim,Terra,Blue,L,563.61,SEL00001,4.2,54
+PRD80897,Beauty,Makeup,Ironbark,Red,,322.4,SEL10206,3.3,702
+PRD80898,Books & Media,Fiction,Bantu,Pink,,361.14,SEL10161,3.5,1619
+PRD80899,Apparel,Men's Trousers,Ridgeline,Green,XS,523.63,SEL10071,4.4,27
+PRD80900,Books & Media,Fiction,Terra,Charcoal,,198.31,SEL10141,3.0,118
+PRD80901,Toys & Games,Puzzles,Petal & Pine,Red,,75.24,SEL00001,3.9,32
+PRD80902,Baby & Kids,Feeding,Copperfield,Pink,XS,507.78,SEL10159,3.2,50
+PRD80903,Electronics,Cameras,Kestrel,Charcoal,,1327.55,SEL10006,4.9,4
+PRD80904,Apparel,Knitwear,Copperfield,Charcoal,XXL,991.14,SEL10150,4.0,13
+PRD80905,Toys & Games,Educational Toys,Lumo,Black,,70.92,SEL00001,5.0,135
+PRD80906,Apparel,Activewear,Nimbus,Cream,S,272.67,SEL10038,4.2,55
+PRD80907,Apparel,Women's Dresses,Solace,Grey,S,986.68,SEL10203,3.8,35
+PRD80908,Footwear,Sneakers,Nordveld,Grey,12,223.98,SEL10061,4.4,34
+PRD80909,Footwear,Sandals,Ridgeline,Navy,9,1199.75,SEL10067,3.6,11
+PRD80910,Home & Kitchen,Lighting,Bantu,Black,,548.75,SEL00001,3.1,7
+PRD80911,Baby & Kids,Nursery,Aurora,Blue,L,446.92,SEL10037,4.2,63
+PRD80912,Beauty,Makeup,Nimbus,Cream,,74.58,SEL10067,4.6,46
+PRD80913,Footwear,Sandals,Solace,Cream,3,641.63,SEL10156,3.2,454
+PRD80914,Health,Personal Care,Lumo,White,,891.75,SEL00001,3.0,32
+PRD80915,Electronics,Smartwatches,Bantu,Red,,740.76,SEL10038,4.1,29
+PRD80916,Footwear,Boots,Copperfield,Burgundy,9,1509.21,SEL00001,4.1,63
+PRD80917,Footwear,Formal Shoes,Aurora,Burgundy,10,423.94,SEL10004,4.2,5
+PRD80918,Electronics,Audio,Volt,Black,,1810.66,SEL10000,4.0,165
+PRD80919,Beauty,Haircare,Mzansi Made,Brown,,423.5,SEL10187,4.0,74
+PRD80920,Electronics,Laptops,Ironbark,Pink,,1495.84,SEL00001,4.9,0
+PRD80921,Apparel,Knitwear,Kestrel,Navy,L,553.23,SEL10086,3.9,158
+PRD80922,Sports & Outdoor,Camping,Lumo,Cream,,1176.41,SEL10174,4.7,27
+PRD80923,Apparel,Swimwear,Bantu,Brown,L,351.76,SEL10160,3.9,112
+PRD80924,Apparel,Swimwear,Volt,Black,L,340.48,SEL10202,3.6,4
+PRD80925,Toys & Games,Educational Toys,Petal & Pine,White,,1024.8,SEL10147,4.6,4
+PRD80926,Beauty,Fragrance,Volt,Charcoal,,322.58,SEL00001,3.2,140
+PRD80927,Apparel,Activewear,Volt,Multi,XXL,220.52,SEL00001,3.4,49
+PRD80928,Home & Kitchen,Cookware,Solace,White,,1200.56,SEL00001,4.2,35
+PRD80929,Apparel,Activewear,Ridgeline,Blue,XS,238.17,SEL10157,4.2,43
+PRD80930,Apparel,Swimwear,Bantu,Pink,XS,134.94,SEL10006,4.4,8
+PRD80931,Electronics,Smartwatches,Lumo,Pink,,4944.59,SEL10000,4.8,51
+PRD80932,Toys & Games,Educational Toys,Lumo,Pink,,242.35,SEL10204,4.2,18
+PRD80933,Sports & Outdoor,Fitness Equipment,Petal & Pine,Brown,,98.27,SEL10064,3.8,484
+PRD80934,Baby & Kids,Nappies,Kestrel,Beige,M,98.83,SEL10048,3.9,109
+PRD80935,Footwear,Sandals,Petal & Pine,Blue,10,512.07,SEL10000,4.2,11
+PRD80936,Books & Media,Music & Film,Kestrel,Black,,241.4,SEL10181,3.5,10
+PRD80937,Apparel,Activewear,Nimbus,Cream,XXL,412.32,SEL00001,4.9,7
+PRD80938,Sports & Outdoor,Fitness Equipment,Kestrel,Charcoal,,316.15,SEL10180,3.6,156
+PRD80939,Apparel,Outerwear,Copperfield,Grey,XXL,274.88,SEL00001,4.8,68
+PRD80940,Footwear,Sandals,Aurora,Charcoal,5,1011.25,SEL10186,4.3,3
+PRD80941,Apparel,Underwear,Terra,Multi,XXL,537.0,SEL10212,4.0,95
+PRD80942,Apparel,Activewear,Aurora,Black,XL,77.03,SEL10205,4.3,2
+PRD80943,Electronics,Smartwatches,Ironbark,Grey,,1336.48,SEL10164,4.0,1048
+PRD80944,Apparel,Men's Shirts,Ridgeline,Grey,M,233.64,SEL10057,3.2,17
+PRD80945,Home & Kitchen,Cookware,Petal & Pine,Charcoal,,298.87,SEL10134,4.5,65
+PRD80946,Footwear,Sneakers,Nimbus,Pink,7,483.17,SEL10052,4.6,35
+PRD80947,Electronics,Laptops,Copperfield,Blue,,1034.28,SEL00001,3.8,105
+PRD80948,Toys & Games,Outdoor Toys,Nimbus,White,,357.55,SEL10114,3.8,72
+PRD80949,Electronics,Headphones,Nordveld,Multi,,993.24,SEL00001,3.5,20
+PRD80950,Footwear,Formal Shoes,Kestrel,White,12,219.21,SEL10115,4.1,41
+PRD80951,Home & Kitchen,Small Appliances,Kestrel,White,,385.1,SEL10130,3.8,8
+PRD80952,Beauty,Skincare,Terra,Blue,,105.55,SEL10036,5.0,1
+PRD80953,Home & Kitchen,Storage,Lumo,Burgundy,,661.3,SEL10009,4.0,15
+PRD80954,Electronics,Laptops,Kestrel,Red,,1174.52,SEL10068,4.8,14
+PRD80955,Footwear,Boots,Terra,Navy,6,491.97,SEL10056,4.6,11
+PRD80956,Home & Kitchen,Decor,Bantu,Cream,,236.91,SEL10171,4.1,8
+PRD80957,Electronics,Tablets,Aurora,Charcoal,,2717.71,SEL00001,4.3,11
+PRD80958,Health,Supplements,Copperfield,Grey,,375.75,SEL00001,3.2,35
+PRD80959,Baby & Kids,Nursery,Ironbark,Green,XXL,78.39,SEL00001,4.3,12
+PRD80960,Books & Media,Textbooks,Aurora,Brown,,103.14,SEL10175,5.0,114
+PRD80961,Home & Kitchen,Bedding,Mzansi Made,Multi,,954.81,SEL00001,4.2,43
+PRD80962,Home & Kitchen,Bedding,Bantu,Pink,,1082.11,SEL00001,3.7,10
+PRD80963,Home & Kitchen,Decor,Ridgeline,Charcoal,,111.74,SEL10045,4.4,90
+PRD80964,Sports & Outdoor,Team Sports,Nimbus,Burgundy,,498.36,SEL10204,4.2,28
+PRD80965,Electronics,Headphones,Ridgeline,Burgundy,,581.66,SEL10115,4.3,52
+PRD80966,Electronics,Audio,Petal & Pine,Navy,,256.44,SEL10021,4.2,84
+PRD80967,Electronics,Accessories,Ironbark,Black,,6513.0,SEL10107,3.7,15
+PRD80968,Apparel,Knitwear,Nimbus,Burgundy,L,194.2,SEL10010,4.7,6
+PRD80969,Electronics,Tablets,Nimbus,Blue,,2975.8,SEL10170,3.7,243
+PRD80970,Toys & Games,Outdoor Toys,Mzansi Made,Multi,,351.21,SEL10211,4.8,327
+PRD80971,Footwear,Sneakers,Nordveld,Green,7,426.33,SEL10023,3.1,4
+PRD80972,Baby & Kids,Nappies,Ironbark,Pink,XS,464.72,SEL00001,4.0,55
+PRD80973,Home & Kitchen,Bedding,Mzansi Made,Red,,193.11,SEL10079,4.9,65
+PRD80974,Electronics,Smartphones,Volt,Burgundy,,3680.5,SEL00001,2.8,435
+PRD80975,Electronics,Laptops,Volt,Red,,2289.9,SEL10141,4.4,25
+PRD80976,Home & Kitchen,Small Appliances,Terra,Brown,,346.08,SEL10089,3.9,33
+PRD80977,Books & Media,Textbooks,Nimbus,Olive,,323.15,SEL10161,4.8,2
+PRD80978,Apparel,Women's Dresses,Kestrel,Multi,XXL,137.87,SEL00001,5.0,23
+PRD80979,Baby & Kids,Feeding,Solace,Multi,XXL,692.49,SEL00001,4.4,11
+PRD80980,Home & Kitchen,Storage,Solace,Beige,,3825.58,SEL00001,5.0,14
+PRD80981,Home & Kitchen,Storage,Solace,Cream,,939.07,SEL10135,4.4,59
+PRD80982,Apparel,Knitwear,Savanna,Green,XL,149.29,SEL10056,3.8,9
+PRD80983,Home & Kitchen,Decor,Lumo,Blue,,269.23,SEL10099,4.6,374
+PRD80984,Apparel,Activewear,Petal & Pine,Charcoal,S,319.53,SEL10202,3.5,271
+PRD80985,Apparel,Denim,Ironbark,Burgundy,L,588.52,SEL10161,4.3,4
+PRD80986,Beauty,Haircare,Copperfield,Grey,,229.93,SEL10152,4.3,61
+PRD80987,Electronics,Smartwatches,Solace,Beige,,2338.72,SEL10010,2.9,5
+PRD80988,Toys & Games,Educational Toys,Mzansi Made,Brown,,595.21,SEL10195,3.8,18
+PRD80989,Apparel,Denim,Solace,Black,XXL,667.46,SEL10195,2.9,1
+PRD80990,Sports & Outdoor,Camping,Aurora,Black,,1600.08,SEL00001,2.9,28
+PRD80991,Beauty,Skincare,Ridgeline,Red,,356.93,SEL00001,4.3,56
+PRD80992,Beauty,Makeup,Lumo,Cream,,42.42,SEL10103,5.0,9
+PRD80993,Electronics,Headphones,Volt,Charcoal,,1379.39,SEL10198,4.9,16
+PRD80994,Home & Kitchen,Cookware,Savanna,Navy,,1057.22,SEL00001,3.0,5
+PRD80995,Home & Kitchen,Cookware,Ridgeline,Charcoal,,445.75,SEL10048,3.1,2
+PRD80996,Baby & Kids,Baby Clothing,Terra,Burgundy,S,549.7,SEL10175,5.0,16
+PRD80997,Apparel,Women's Dresses,Aurora,Multi,L,911.59,SEL10099,4.1,18
+PRD80998,Footwear,Boots,Solace,Burgundy,3,1390.45,SEL10201,4.0,179
+PRD80999,Home & Kitchen,Cookware,Lumo,Multi,,359.69,SEL10057,4.5,3
+PRD81000,Apparel,Outerwear,Terra,Olive,M,387.26,SEL10127,3.8,0
+PRD81001,Toys & Games,Puzzles,Ridgeline,Charcoal,,244.17,SEL10095,4.5,19
+PRD81002,Beauty,Makeup,Copperfield,Pink,,375.71,SEL00001,3.8,50
+PRD81003,Apparel,Men's Trousers,Terra,Brown,L,907.17,SEL10037,5.0,0
+PRD81004,Footwear,Slippers,Petal & Pine,Black,4,2980.47,SEL10143,4.5,181
+PRD81005,Sports & Outdoor,Camping,Petal & Pine,Navy,,724.01,SEL10201,4.7,341
+PRD81006,Apparel,Women's Dresses,Kestrel,Red,L,359.75,SEL10157,2.9,121
+PRD81007,Home & Kitchen,Lighting,Kestrel,Brown,,275.71,SEL10056,4.7,144
+PRD81008,Sports & Outdoor,Cycling,Solace,Cream,,506.11,SEL10193,3.6,82
+PRD81009,Electronics,Cameras,Savanna,Black,,2748.07,SEL00001,3.8,5
+PRD81010,Apparel,Activewear,Kestrel,Multi,XS,377.43,SEL00001,4.4,18
+PRD81011,Toys & Games,Outdoor Toys,Aurora,White,,361.15,SEL10089,4.6,182
+PRD81012,Health,Supplements,Kestrel,Charcoal,,646.89,SEL10073,4.0,5
+PRD81013,Electronics,Audio,Copperfield,Green,,2356.18,SEL10175,4.7,34
+PRD81014,Electronics,Tablets,Petal & Pine,White,,13749.27,SEL00001,3.6,24
+PRD81015,Footwear,Sneakers,Savanna,Red,5,1092.22,SEL10143,3.9,26
+PRD81016,Footwear,Sandals,Savanna,Red,10,907.69,SEL10174,4.0,35
+PRD81017,Home & Kitchen,Small Appliances,Ironbark,Red,,653.17,SEL10159,3.9,58
+PRD81018,Beauty,Skincare,Nordveld,Multi,,656.18,SEL10143,3.1,62
+PRD81019,Apparel,Outerwear,Kestrel,Pink,XL,427.53,SEL10091,3.3,1146
+PRD81020,Footwear,Formal Shoes,Terra,White,3,569.84,SEL10115,3.7,10
+PRD81021,Beauty,Haircare,Petal & Pine,Green,,1051.5,SEL10041,3.0,187
+PRD81022,Home & Kitchen,Bedding,Lumo,Navy,,779.91,SEL00001,3.7,1
+PRD81023,Electronics,Headphones,Lumo,Beige,,1604.97,SEL00001,4.4,5
+PRD81024,Electronics,Smartphones,Lumo,Brown,,14670.96,SEL10071,4.8,9
+PRD81025,Footwear,Sandals,Petal & Pine,Brown,8,623.7,SEL10165,3.4,27
+PRD81026,Apparel,Underwear,Ridgeline,Brown,XL,803.73,SEL00001,5.0,12
+PRD81027,Health,Medical Devices,Ridgeline,Charcoal,,141.53,SEL10142,3.3,23
+PRD81028,Apparel,Women's Tops,Volt,Charcoal,XS,192.96,SEL00001,4.3,8
+PRD81029,Electronics,Smartphones,Bantu,Burgundy,,2126.41,SEL10138,2.7,6
+PRD81030,Apparel,Outerwear,Copperfield,Olive,XS,380.0,SEL00001,4.0,62
+PRD81031,Apparel,Activewear,Kestrel,Green,XXL,717.76,SEL10071,4.5,9
+PRD81032,Home & Kitchen,Storage,Kestrel,Beige,,199.37,SEL10115,3.8,61
+PRD81033,Electronics,Audio,Aurora,Pink,,630.48,SEL10087,4.4,24
+PRD81034,Health,Medical Devices,Petal & Pine,Burgundy,,481.97,SEL10122,3.9,35
+PRD81035,Footwear,Formal Shoes,Lumo,Black,5,481.95,SEL10041,3.8,74
+PRD81036,Electronics,Headphones,Mzansi Made,Beige,,802.84,SEL10117,4.5,98
+PRD81037,Apparel,Men's Trousers,Lumo,Pink,XL,208.74,SEL10198,4.3,3
+PRD81038,Electronics,Smartwatches,Kestrel,Pink,,1967.78,SEL10204,2.1,17
+PRD81039,Electronics,Smartphones,Terra,Grey,,1220.69,SEL00001,4.1,303
+PRD81040,Home & Kitchen,Storage,Aurora,Navy,,360.41,SEL10076,4.9,17
+PRD81041,Apparel,Underwear,Nordveld,Multi,L,458.76,SEL10129,3.6,102
+PRD81042,Books & Media,Music & Film,Copperfield,Blue,,232.5,SEL10020,4.3,25
+PRD81043,Electronics,Smartwatches,Ridgeline,Navy,,665.48,SEL10135,3.8,2
+PRD81044,Electronics,Audio,Petal & Pine,Green,,718.1,SEL10056,3.7,182
+PRD81045,Apparel,Men's Trousers,Nimbus,Beige,XS,782.5,SEL10125,4.4,11
+PRD81046,Apparel,Men's Trousers,Kestrel,Green,L,212.28,SEL00001,2.5,125
+PRD81047,Electronics,Accessories,Terra,White,,1819.91,SEL10174,3.7,160
+PRD81048,Apparel,Knitwear,Lumo,Navy,XL,189.06,SEL00001,3.8,9
+PRD81049,Home & Kitchen,Cookware,Kestrel,Grey,,282.72,SEL10152,3.4,35
+PRD81050,Electronics,Tablets,Volt,Black,,606.6,SEL10010,3.9,6
+PRD81051,Books & Media,Textbooks,Solace,Beige,,171.99,SEL00001,3.4,14
+PRD81052,Footwear,Sandals,Ridgeline,Brown,10,599.97,SEL10119,4.8,32
+PRD81053,Footwear,Sandals,Ridgeline,Burgundy,5,555.25,SEL10209,3.8,18
+PRD81054,Footwear,Sneakers,Ridgeline,Navy,8,551.89,SEL10038,2.7,17
+PRD81055,Apparel,Knitwear,Kestrel,Pink,M,215.79,SEL10184,3.6,61
+PRD81056,Beauty,Makeup,Aurora,Pink,,1168.54,SEL10117,5.0,28
+PRD81057,Baby & Kids,Baby Clothing,Nimbus,Grey,XS,448.03,SEL10042,4.0,33
+PRD81058,Footwear,Boots,Solace,Green,3,636.25,SEL00001,4.4,5
+PRD81059,Apparel,Men's Trousers,Savanna,Blue,XXL,356.92,SEL10170,4.2,31
+PRD81060,Apparel,Men's Trousers,Savanna,Olive,XS,135.35,SEL00001,4.4,9
+PRD81061,Electronics,Laptops,Terra,Blue,,107.14,SEL10168,5.0,13
+PRD81062,Apparel,Women's Tops,Ironbark,White,XXL,376.79,SEL10074,4.7,0
+PRD81063,Apparel,Swimwear,Nimbus,Green,M,430.74,SEL10157,4.3,16
+PRD81064,Sports & Outdoor,Fitness Equipment,Volt,Pink,,1512.82,SEL10167,4.2,25
+PRD81065,Electronics,Accessories,Bantu,Multi,,397.15,SEL10075,3.0,12
+PRD81066,Electronics,Laptops,Copperfield,Green,,919.77,SEL10043,3.8,28
+PRD81067,Apparel,Swimwear,Nimbus,Cream,XS,609.88,SEL10124,3.9,11
+PRD81068,Footwear,Sandals,Aurora,Multi,6,2924.34,SEL00001,3.7,61
+PRD81069,Apparel,Knitwear,Solace,Cream,XS,611.75,SEL10164,3.5,3
+PRD81070,Apparel,Denim,Petal & Pine,Black,XXL,546.79,SEL10002,3.8,61
+PRD81071,Toys & Games,Outdoor Toys,Ridgeline,Burgundy,,157.96,SEL10171,4.2,1
+PRD81072,Home & Kitchen,Decor,Solace,Cream,,121.74,SEL00001,5.0,39
+PRD81073,Home & Kitchen,Lighting,Nordveld,Green,,422.77,SEL10021,3.8,21
+PRD81074,Sports & Outdoor,Cycling,Mzansi Made,Green,,378.94,SEL10034,3.2,341
+PRD81075,Apparel,Swimwear,Savanna,Pink,XS,340.48,SEL00001,3.3,60
+PRD81076,Footwear,Slippers,Nordveld,Red,8,3527.41,SEL00001,4.5,0
+PRD81077,Home & Kitchen,Storage,Bantu,Grey,,974.73,SEL00001,5.0,163
+PRD81078,Beauty,Makeup,Petal & Pine,Beige,,247.15,SEL10142,3.8,70
+PRD81079,Baby & Kids,Baby Clothing,Copperfield,Burgundy,S,273.33,SEL10095,4.1,2621
+PRD81080,Apparel,Women's Dresses,Mzansi Made,Black,XS,508.14,SEL00001,3.8,3
+PRD81081,Health,Medical Devices,Nordveld,Pink,,436.18,SEL10094,4.1,65
+PRD81082,Electronics,Accessories,Copperfield,Multi,,1040.02,SEL10094,3.4,20
+PRD81083,Apparel,Activewear,Ridgeline,Charcoal,L,291.07,SEL10117,3.6,30
+PRD81084,Footwear,Formal Shoes,Solace,Green,3,265.19,SEL00001,4.3,22
+PRD81085,Home & Kitchen,Small Appliances,Mzansi Made,Brown,,162.69,SEL00001,4.0,161
+PRD81086,Apparel,Women's Dresses,Solace,White,XS,275.38,SEL00001,3.7,21
+PRD81087,Apparel,Women's Dresses,Ridgeline,Grey,L,171.66,SEL10127,3.4,2
+PRD81088,Footwear,Formal Shoes,Savanna,Green,5,144.86,SEL10163,3.3,62
+PRD81089,Footwear,Sneakers,Petal & Pine,Brown,8,1692.07,SEL10166,4.0,8
+PRD81090,Electronics,Headphones,Aurora,Grey,,1215.46,SEL00001,4.1,21
+PRD81091,Electronics,Audio,Aurora,Red,,890.68,SEL10102,2.6,7
+PRD81092,Electronics,Headphones,Nimbus,Charcoal,,2055.29,SEL10193,5.0,4
+PRD81093,Beauty,Haircare,Bantu,Burgundy,,319.14,SEL10175,4.4,32
+PRD81094,Home & Kitchen,Cookware,Ridgeline,Blue,,219.54,SEL00001,4.9,0
+PRD81095,Apparel,Women's Tops,Bantu,Grey,M,231.64,SEL10075,4.3,174
+PRD81096,Apparel,Knitwear,Ridgeline,Blue,S,511.38,SEL10082,4.0,0
+PRD81097,Home & Kitchen,Bedding,Nordveld,Burgundy,,399.93,SEL00001,4.5,15
+PRD81098,Footwear,Slippers,Ironbark,Pink,8,419.63,SEL10053,3.5,44
+PRD81099,Sports & Outdoor,Camping,Copperfield,Charcoal,,502.72,SEL10031,3.3,47
+PRD81100,Electronics,Smartphones,Mzansi Made,Cream,,2431.79,SEL00001,4.1,223
+PRD81101,Home & Kitchen,Lighting,Terra,Navy,,1067.59,SEL10151,4.3,29
+PRD81102,Footwear,Formal Shoes,Ironbark,Beige,12,1064.78,SEL10019,4.4,71
+PRD81103,Home & Kitchen,Decor,Volt,Brown,,1081.65,SEL10057,3.6,8
+PRD81104,Footwear,Sneakers,Nimbus,Navy,6,426.42,SEL10142,4.4,1
+PRD81105,Books & Media,Music & Film,Ironbark,Charcoal,,39.42,SEL10009,3.1,45
+PRD81106,Home & Kitchen,Cookware,Mzansi Made,Charcoal,,40.72,SEL10166,3.7,250
+PRD81107,Toys & Games,Puzzles,Lumo,Black,,266.6,SEL10021,3.3,111
+PRD81108,Apparel,Women's Dresses,Terra,Red,S,288.75,SEL10040,4.7,23
+PRD81109,Footwear,Slippers,Volt,Cream,11,569.19,SEL10082,4.4,185
+PRD81110,Electronics,Headphones,Copperfield,Black,,609.65,SEL10199,3.5,12
+PRD81111,Apparel,Women's Dresses,Terra,Olive,XS,371.4,SEL10170,3.3,27
+PRD81112,Books & Media,Non-Fiction,Volt,Charcoal,,271.18,SEL10044,3.6,157
+PRD81113,Toys & Games,Educational Toys,Ridgeline,Beige,,1512.42,SEL10186,3.9,8
+PRD81114,Apparel,Men's Shirts,Kestrel,Charcoal,M,773.43,SEL10205,4.3,19
+PRD81115,Footwear,Formal Shoes,Ridgeline,Red,4,651.22,SEL10191,5.0,12
+PRD81116,Home & Kitchen,Cookware,Bantu,Grey,,2172.85,SEL10099,3.7,4
+PRD81117,Beauty,Skincare,Ironbark,Olive,,191.53,SEL10012,3.9,15
+PRD81118,Electronics,Cameras,Kestrel,Cream,,10366.6,SEL10049,3.2,24
+PRD81119,Toys & Games,Board Games,Copperfield,Beige,,329.4,SEL10202,4.3,71
+PRD81120,Home & Kitchen,Storage,Petal & Pine,Beige,,516.33,SEL10095,3.3,140
+PRD81121,Electronics,Cameras,Solace,Olive,,3125.58,SEL10012,4.4,17
+PRD81122,Electronics,Accessories,Kestrel,Green,,609.71,SEL10008,4.4,4
+PRD81123,Sports & Outdoor,Team Sports,Solace,Green,,320.46,SEL10186,4.1,10
+PRD81124,Electronics,Audio,Copperfield,Blue,,1193.4,SEL10094,3.6,44
+PRD81125,Home & Kitchen,Cookware,Kestrel,Pink,,1354.51,SEL00001,4.9,88
+PRD81126,Beauty,Skincare,Ironbark,White,,92.16,SEL10056,4.5,3
+PRD81127,Books & Media,Textbooks,Aurora,Navy,,61.98,SEL10053,3.8,11
+PRD81128,Electronics,Smartwatches,Lumo,Blue,,822.7,SEL10103,5.0,50
+PRD81129,Apparel,Men's Shirts,Solace,Brown,XL,247.24,SEL10113,3.4,27
+PRD81130,Apparel,Outerwear,Bantu,Charcoal,M,754.13,SEL10151,4.7,32
+PRD81131,Books & Media,Non-Fiction,Volt,Beige,,98.88,SEL10184,4.4,45
+PRD81132,Sports & Outdoor,Camping,Ironbark,Red,,378.41,SEL10079,3.1,1
+PRD81133,Sports & Outdoor,Camping,Volt,Brown,,193.84,SEL10124,2.8,29
+PRD81134,Footwear,Sandals,Solace,Multi,10,443.64,SEL10209,3.5,39
+PRD81135,Apparel,Underwear,Bantu,Burgundy,XL,902.58,SEL10186,3.9,21
+PRD81136,Apparel,Underwear,Ironbark,Burgundy,XS,606.11,SEL10091,3.3,52
+PRD81137,Electronics,Laptops,Ridgeline,Charcoal,,816.42,SEL00001,3.5,40
+PRD81138,Baby & Kids,Feeding,Lumo,Brown,S,457.81,SEL10110,4.9,7
+PRD81139,Apparel,Men's Shirts,Aurora,Charcoal,XXL,424.13,SEL10073,4.1,124
+PRD81140,Electronics,Accessories,Mzansi Made,Charcoal,,3181.19,SEL00001,4.5,2
+PRD81141,Electronics,Audio,Nimbus,Olive,,2807.39,SEL10186,3.0,9
+PRD81142,Footwear,Boots,Aurora,Red,3,769.05,SEL10124,3.9,13
+PRD81143,Apparel,Swimwear,Aurora,Black,L,1623.28,SEL10114,3.8,12
+PRD81144,Beauty,Skincare,Volt,Cream,,119.56,SEL10077,2.6,109
+PRD81145,Apparel,Underwear,Savanna,Green,S,769.45,SEL10018,4.6,15
+PRD81146,Electronics,Cameras,Petal & Pine,Brown,,1672.93,SEL00001,3.8,76
+PRD81147,Apparel,Outerwear,Petal & Pine,Brown,XL,961.43,SEL00001,4.6,11
+PRD81148,Footwear,Boots,Nimbus,Black,7,439.62,SEL00001,4.1,27
+PRD81149,Health,Medical Devices,Solace,Black,,293.43,SEL10208,4.0,21
+PRD81150,Beauty,Haircare,Kestrel,Navy,,196.53,SEL10051,3.0,21
+PRD81151,Toys & Games,Educational Toys,Copperfield,Red,,221.57,SEL10109,4.2,9
+PRD81152,Footwear,Sneakers,Ironbark,White,11,358.63,SEL10019,5.0,19
+PRD81153,Apparel,Underwear,Volt,Charcoal,M,253.2,SEL10165,3.4,132
+PRD81154,Toys & Games,Outdoor Toys,Solace,Red,,240.46,SEL10092,4.2,27
+PRD81155,Electronics,Smartphones,Volt,Pink,,2191.72,SEL10208,2.9,128
+PRD81156,Beauty,Skincare,Bantu,Pink,,253.08,SEL10122,5.0,133
+PRD81157,Footwear,Sneakers,Savanna,Navy,12,623.58,SEL00001,3.6,28
+PRD81158,Apparel,Denim,Nimbus,Charcoal,XL,423.28,SEL10191,4.3,64
+PRD81159,Home & Kitchen,Small Appliances,Nimbus,Grey,,595.58,SEL00001,4.1,11
+PRD81160,Electronics,Smartwatches,Aurora,Pink,,10053.87,SEL00001,4.6,136
+PRD81161,Apparel,Women's Dresses,Bantu,Cream,S,300.86,SEL00001,3.1,15
+PRD81162,Home & Kitchen,Small Appliances,Ironbark,Olive,,211.51,SEL10009,4.3,1
+PRD81163,Home & Kitchen,Cookware,Nimbus,Red,,238.65,SEL10152,4.6,43
+PRD81164,Footwear,Sneakers,Volt,Blue,11,1571.42,SEL10115,3.7,131
+PRD81165,Beauty,Makeup,Lumo,Black,,234.03,SEL00001,4.3,5
+PRD81166,Sports & Outdoor,Fitness Equipment,Petal & Pine,Beige,,1583.66,SEL10018,3.5,3
+PRD81167,Apparel,Denim,Bantu,Black,M,418.81,SEL10091,3.8,6
+PRD81168,Sports & Outdoor,Team Sports,Nimbus,White,,1162.34,SEL10018,4.3,12
+PRD81169,Toys & Games,Board Games,Solace,Green,,119.8,SEL10171,1.9,9
+PRD81170,Sports & Outdoor,Cycling,Bantu,Multi,,416.5,SEL10182,4.2,43
+PRD81171,Apparel,Activewear,Kestrel,Pink,XL,295.74,SEL10184,5.0,16
+PRD81172,Apparel,Activewear,Copperfield,Green,M,145.15,SEL00001,3.7,95
+PRD81173,Home & Kitchen,Bedding,Aurora,Grey,,962.38,SEL10012,3.9,29
+PRD81174,Apparel,Swimwear,Ironbark,Grey,XL,370.84,SEL10082,3.0,25
+PRD81175,Electronics,Tablets,Ironbark,Brown,,1798.86,SEL10114,3.8,28
+PRD81176,Books & Media,Music & Film,Lumo,Multi,,398.68,SEL10026,4.0,67
+PRD81177,Beauty,Skincare,Terra,Green,,294.69,SEL10191,4.3,4
+PRD81178,Apparel,Women's Tops,Nordveld,Pink,M,198.24,SEL10183,3.8,428
+PRD81179,Health,Personal Care,Petal & Pine,Blue,,120.48,SEL00001,5.0,5
+PRD81180,Health,Personal Care,Terra,Red,,268.14,SEL10107,4.6,11
+PRD81181,Books & Media,Fiction,Savanna,Pink,,85.76,SEL00001,3.8,12
+PRD81182,Beauty,Haircare,Ironbark,Navy,,236.39,SEL10152,3.4,154
+PRD81183,Electronics,Audio,Petal & Pine,Multi,,2477.69,SEL00001,4.8,25
+PRD81184,Apparel,Knitwear,Petal & Pine,Grey,S,711.98,SEL10089,3.2,139
+PRD81185,Apparel,Activewear,Ridgeline,Red,XS,441.92,SEL10045,2.8,27
+PRD81186,Beauty,Skincare,Solace,Beige,,177.81,SEL10032,3.0,29
+PRD81187,Apparel,Outerwear,Nimbus,Navy,XL,824.47,SEL10210,4.3,69
+PRD81188,Apparel,Denim,Copperfield,Red,XS,706.25,SEL10068,4.3,13
+PRD81189,Apparel,Swimwear,Ridgeline,Multi,XS,398.14,SEL10176,4.5,44
+PRD81190,Books & Media,Non-Fiction,Lumo,Cream,,140.56,SEL10006,4.4,52
+PRD81191,Apparel,Knitwear,Volt,Brown,S,603.03,SEL10019,4.4,36
+PRD81192,Electronics,Laptops,Volt,Black,,3745.18,SEL00001,4.2,34
+PRD81193,Beauty,Fragrance,Nimbus,Brown,,252.12,SEL10209,4.6,46
+PRD81194,Apparel,Knitwear,Lumo,Black,XL,152.99,SEL10171,3.4,24
+PRD81195,Apparel,Swimwear,Nordveld,Green,XL,281.89,SEL00001,3.2,16
+PRD81196,Baby & Kids,Nursery,Terra,Burgundy,M,621.27,SEL10021,2.9,119
+PRD81197,Electronics,Smartphones,Nordveld,Burgundy,,4586.33,SEL10107,4.1,146
+PRD81198,Home & Kitchen,Lighting,Lumo,Grey,,227.14,SEL10006,4.0,2
+PRD81199,Books & Media,Fiction,Petal & Pine,Blue,,135.79,SEL10212,3.9,82
+PRD81200,Apparel,Women's Tops,Volt,Multi,XL,144.83,SEL10058,3.9,93
+PRD81201,Apparel,Swimwear,Lumo,Beige,XS,604.05,SEL10067,4.7,4
+PRD81202,Apparel,Activewear,Lumo,Pink,L,194.04,SEL00001,4.5,7
+PRD81203,Apparel,Men's Shirts,Bantu,Brown,XS,965.2,SEL10213,3.9,11
+PRD81204,Electronics,Audio,Kestrel,Cream,,1005.69,SEL10079,4.9,18
+PRD81205,Apparel,Activewear,Ridgeline,Blue,XL,266.1,SEL10033,3.8,10
+PRD81206,Apparel,Men's Trousers,Lumo,Burgundy,M,177.21,SEL10168,4.6,82
+PRD81207,Footwear,Boots,Ironbark,White,8,831.03,SEL10045,2.3,3
+PRD81208,Sports & Outdoor,Fitness Equipment,Kestrel,Blue,,117.76,SEL10008,3.1,22
+PRD81209,Footwear,Sneakers,Aurora,Charcoal,11,429.05,SEL10049,3.7,29
+PRD81210,Beauty,Skincare,Ironbark,Pink,,712.24,SEL10201,4.2,5
+PRD81211,Electronics,Smartphones,Terra,Navy,,7245.51,SEL10037,3.8,78
+PRD81212,Health,Supplements,Solace,Brown,,297.65,SEL10127,4.0,108
+PRD81213,Toys & Games,Educational Toys,Kestrel,Beige,,234.01,SEL00001,3.5,0
+PRD81214,Footwear,Slippers,Solace,Cream,6,511.14,SEL00001,4.0,63
+PRD81215,Footwear,Sneakers,Mzansi Made,Cream,7,502.87,SEL10046,3.7,124
+PRD81216,Beauty,Makeup,Aurora,Burgundy,,353.43,SEL10064,3.8,33
+PRD81217,Apparel,Swimwear,Aurora,Green,XXL,473.88,SEL10000,4.5,34
+PRD81218,Apparel,Outerwear,Terra,Blue,S,109.99,SEL10100,2.9,23
+PRD81219,Apparel,Men's Trousers,Solace,Cream,XL,390.53,SEL10183,5.0,291
+PRD81220,Electronics,Laptops,Nimbus,Red,,1981.27,SEL10093,3.9,21
+PRD81221,Electronics,Tablets,Copperfield,Navy,,10198.69,SEL10033,3.9,16
+PRD81222,Footwear,Boots,Ridgeline,Blue,3,399.63,SEL10087,3.9,1233
+PRD81223,Footwear,Slippers,Petal & Pine,Green,12,860.14,SEL10134,3.6,36
+PRD81224,Footwear,Slippers,Petal & Pine,Beige,11,166.77,SEL10064,3.0,120
+PRD81225,Home & Kitchen,Small Appliances,Volt,Red,,338.18,SEL10154,4.1,27
+PRD81226,Electronics,Headphones,Nordveld,Burgundy,,969.04,SEL10199,3.3,129
+PRD81227,Apparel,Men's Shirts,Terra,Grey,L,1145.5,SEL10185,4.5,65
+PRD81228,Apparel,Denim,Savanna,Navy,S,423.88,SEL10203,4.3,18
+PRD81229,Toys & Games,Educational Toys,Mzansi Made,Charcoal,,65.17,SEL10009,4.0,37
+PRD81230,Baby & Kids,Baby Clothing,Lumo,Charcoal,L,107.2,SEL00001,3.7,11
+PRD81231,Electronics,Tablets,Solace,Multi,,4221.9,SEL10000,3.9,2
+PRD81232,Footwear,Slippers,Savanna,Grey,9,1421.31,SEL10108,5.0,12
+PRD81233,Footwear,Boots,Ironbark,White,9,206.08,SEL10031,2.5,199
+PRD81234,Electronics,Cameras,Lumo,Blue,,10849.04,SEL00001,5.0,2
+PRD81235,Footwear,Slippers,Lumo,Brown,9,357.0,SEL10045,3.2,15
+PRD81236,Home & Kitchen,Cookware,Kestrel,Brown,,244.42,SEL10212,2.7,11
+PRD81237,Apparel,Denim,Ridgeline,Navy,XS,584.19,SEL10086,3.7,12
+PRD81238,Footwear,Formal Shoes,Copperfield,Grey,3,414.81,SEL10115,4.7,8
+PRD81239,Sports & Outdoor,Camping,Savanna,Olive,,544.45,SEL00001,3.1,216
+PRD81240,Footwear,Sneakers,Ironbark,Green,7,149.9,SEL10176,4.4,35
+PRD81241,Books & Media,Non-Fiction,Copperfield,Green,,54.8,SEL00001,4.0,52
+PRD81242,Apparel,Activewear,Terra,Pink,L,379.14,SEL10173,3.6,331
+PRD81243,Apparel,Men's Shirts,Copperfield,Burgundy,XS,859.75,SEL10129,3.5,15
+PRD81244,Footwear,Boots,Bantu,Black,8,582.38,SEL10123,4.0,15
+PRD81245,Sports & Outdoor,Cycling,Terra,White,,1999.13,SEL10091,4.3,58
+PRD81246,Electronics,Smartwatches,Mzansi Made,Grey,,5189.53,SEL10142,3.2,89
+PRD81247,Footwear,Slippers,Solace,White,7,845.63,SEL00001,4.8,3
+PRD81248,Beauty,Haircare,Savanna,White,,395.42,SEL00001,2.0,111
+PRD81249,Apparel,Men's Trousers,Mzansi Made,Grey,XL,355.55,SEL10055,4.8,0
+PRD81250,Sports & Outdoor,Camping,Nordveld,Multi,,139.56,SEL10130,5.0,2
+PRD81251,Apparel,Outerwear,Ridgeline,Multi,L,570.57,SEL10037,4.3,106
+PRD81252,Footwear,Boots,Savanna,Burgundy,5,680.84,SEL10064,3.9,117
+PRD81253,Home & Kitchen,Decor,Lumo,White,,1094.38,SEL10148,3.1,24
+PRD81254,Home & Kitchen,Cookware,Nimbus,Burgundy,,284.89,SEL10208,3.9,195
+PRD81255,Baby & Kids,Baby Clothing,Aurora,Cream,L,328.86,SEL10081,3.8,18
+PRD81256,Beauty,Haircare,Copperfield,Beige,,589.23,SEL10113,4.3,4
+PRD81257,Apparel,Denim,Solace,Brown,S,743.11,SEL10092,4.2,17
+PRD81258,Baby & Kids,Feeding,Solace,Green,S,614.47,SEL10095,3.2,305
+PRD81259,Apparel,Activewear,Savanna,Olive,XS,489.92,SEL10022,3.7,483
+PRD81260,Footwear,Slippers,Terra,Blue,10,1462.08,SEL00001,3.9,18
+PRD81261,Health,Medical Devices,Nordveld,Beige,,240.0,SEL10006,3.5,221
+PRD81262,Toys & Games,Board Games,Petal & Pine,Grey,,664.28,SEL10159,4.0,9
+PRD81263,Electronics,Cameras,Ridgeline,Pink,,3172.84,SEL10195,4.7,12
+PRD81264,Baby & Kids,Nursery,Terra,Green,M,448.87,SEL10191,4.3,21
+PRD81265,Health,Supplements,Aurora,Cream,,132.11,SEL10189,4.3,7
+PRD81266,Home & Kitchen,Lighting,Nordveld,Blue,,138.75,SEL10141,5.0,29
+PRD81267,Electronics,Audio,Volt,Blue,,1001.13,SEL00001,4.3,27
+PRD81268,Beauty,Fragrance,Copperfield,Green,,329.31,SEL10008,4.5,293
+PRD81269,Baby & Kids,Feeding,Ridgeline,Blue,XL,148.99,SEL10051,3.2,22
+PRD81270,Apparel,Outerwear,Ironbark,Green,XS,405.47,SEL00001,3.6,25
+PRD81271,Footwear,Formal Shoes,Mzansi Made,Multi,9,249.77,SEL10051,2.9,18
+PRD81272,Apparel,Women's Dresses,Ironbark,Grey,L,351.1,SEL10147,4.0,48
+PRD81273,Apparel,Women's Dresses,Nimbus,Multi,S,192.61,SEL10132,5.0,253
+PRD81274,Electronics,Smartwatches,Copperfield,Olive,,1320.62,SEL10057,3.7,28
+PRD81275,Apparel,Men's Shirts,Nordveld,Blue,XS,173.58,SEL10164,4.8,19
+PRD81276,Footwear,Sneakers,Nimbus,Pink,3,466.26,SEL10095,4.7,11
+PRD81277,Home & Kitchen,Decor,Ridgeline,Green,,223.9,SEL10139,4.0,44
+PRD81278,Electronics,Audio,Lumo,Green,,2260.92,SEL10139,4.0,4
+PRD81279,Sports & Outdoor,Camping,Copperfield,Beige,,485.81,SEL10115,4.6,41
+PRD81280,Apparel,Activewear,Copperfield,White,L,323.62,SEL10210,4.6,30
+PRD81281,Home & Kitchen,Bedding,Ridgeline,Black,,399.76,SEL10189,3.6,18
+PRD81282,Footwear,Sandals,Aurora,Burgundy,9,444.34,SEL10130,5.0,17
+PRD81283,Electronics,Smartwatches,Nimbus,Green,,1170.6,SEL10182,4.2,62
+PRD81284,Beauty,Skincare,Bantu,Black,,424.43,SEL10068,4.3,13
+PRD81285,Electronics,Audio,Bantu,Blue,,4080.97,SEL10124,3.5,98
+PRD81286,Electronics,Cameras,Solace,Grey,,1010.8,SEL10012,3.5,2
+PRD81287,Footwear,Slippers,Solace,Burgundy,7,235.15,SEL10095,4.3,7
+PRD81288,Electronics,Smartphones,Petal & Pine,White,,6424.46,SEL10057,4.2,76
+PRD81289,Electronics,Smartwatches,Bantu,Black,,9834.11,SEL10068,3.4,431
+PRD81290,Electronics,Audio,Solace,Brown,,1146.29,SEL10022,4.5,2
+PRD81291,Electronics,Audio,Bantu,Blue,,2079.15,SEL00001,4.3,3
+PRD81292,Beauty,Skincare,Ridgeline,Burgundy,,211.89,SEL10065,4.0,32
+PRD81293,Health,Supplements,Petal & Pine,Red,,223.76,SEL10205,2.9,23
+PRD81294,Beauty,Makeup,Kestrel,Cream,,454.55,SEL10112,2.9,324
+PRD81295,Beauty,Skincare,Ironbark,Navy,,115.38,SEL10079,3.6,11
+PRD81296,Health,Supplements,Ridgeline,Pink,,929.84,SEL10182,4.0,81
+PRD81297,Home & Kitchen,Small Appliances,Nimbus,Navy,,737.66,SEL10152,3.4,41
+PRD81298,Apparel,Knitwear,Savanna,Brown,XS,554.61,SEL10129,5.0,202
+PRD81299,Apparel,Men's Shirts,Copperfield,Blue,S,1144.23,SEL00001,4.7,51
+PRD81300,Home & Kitchen,Lighting,Nordveld,Navy,,724.09,SEL10042,3.9,60
+PRD81301,Electronics,Smartwatches,Ironbark,Red,,710.25,SEL00001,4.3,7
+PRD81302,Apparel,Activewear,Bantu,Beige,XXL,261.99,SEL10023,3.5,53
+PRD81303,Baby & Kids,Baby Clothing,Ridgeline,Brown,XL,433.17,SEL00001,3.3,30
+PRD81304,Sports & Outdoor,Cycling,Terra,Charcoal,,1199.73,SEL10142,4.0,190
+PRD81305,Home & Kitchen,Cookware,Bantu,Burgundy,,1492.97,SEL10193,3.2,199
+PRD81306,Footwear,Slippers,Savanna,Black,3,1489.3,SEL10179,5.0,43
+PRD81307,Apparel,Underwear,Terra,Green,XS,1295.9,SEL00001,4.2,21
+PRD81308,Sports & Outdoor,Camping,Kestrel,Multi,,811.42,SEL10142,4.5,1
+PRD81309,Apparel,Activewear,Lumo,Grey,M,216.36,SEL00001,4.5,13
+PRD81310,Beauty,Fragrance,Aurora,Cream,,206.69,SEL00001,3.8,71
+PRD81311,Beauty,Haircare,Nimbus,Blue,,153.16,SEL10136,3.8,28
+PRD81312,Toys & Games,Educational Toys,Volt,Burgundy,,809.21,SEL10192,2.8,215
+PRD81313,Footwear,Sandals,Kestrel,Brown,11,457.1,SEL10141,4.3,138
+PRD81314,Home & Kitchen,Bedding,Nordveld,Navy,,81.21,SEL10030,3.2,602
+PRD81315,Apparel,Knitwear,Petal & Pine,Beige,XS,697.66,SEL00001,4.4,207
+PRD81316,Apparel,Swimwear,Mzansi Made,Green,M,364.65,SEL10095,4.4,14
+PRD81317,Apparel,Activewear,Ironbark,Blue,S,445.39,SEL10186,3.4,24
+PRD81318,Electronics,Laptops,Nordveld,Multi,,1033.69,SEL10179,3.5,85
+PRD81319,Electronics,Headphones,Bantu,Black,,1439.07,SEL00001,4.0,22
+PRD81320,Books & Media,Fiction,Mzansi Made,Burgundy,,89.63,SEL00001,5.0,12
+PRD81321,Beauty,Skincare,Aurora,Olive,,183.75,SEL00001,3.8,63
+PRD81322,Health,Personal Care,Savanna,White,,299.35,SEL10119,5.0,6
+PRD81323,Sports & Outdoor,Fitness Equipment,Lumo,Brown,,549.11,SEL00001,3.6,16
+PRD81324,Beauty,Fragrance,Volt,Beige,,101.5,SEL00001,3.7,36
+PRD81325,Beauty,Haircare,Volt,Multi,,511.81,SEL10102,3.1,20
+PRD81326,Sports & Outdoor,Camping,Solace,Green,,905.05,SEL10018,4.0,12
+PRD81327,Home & Kitchen,Cookware,Nordveld,Red,,328.96,SEL10157,3.6,18
+PRD81328,Apparel,Men's Shirts,Copperfield,Olive,M,447.81,SEL00001,4.2,31
+PRD81329,Home & Kitchen,Decor,Lumo,Pink,,1065.34,SEL10171,3.0,50
+PRD81330,Beauty,Haircare,Lumo,Pink,,146.63,SEL10074,4.5,172
+PRD81331,Apparel,Women's Dresses,Mzansi Made,White,S,396.63,SEL10016,3.2,58
+PRD81332,Apparel,Swimwear,Nimbus,Black,XS,262.67,SEL10099,3.4,62
+PRD81333,Books & Media,Non-Fiction,Ridgeline,Olive,,140.21,SEL10058,3.9,15
+PRD81334,Toys & Games,Educational Toys,Terra,Blue,,69.66,SEL10048,3.7,23
+PRD81335,Sports & Outdoor,Camping,Bantu,Navy,,1394.36,SEL10189,4.0,127
+PRD81336,Footwear,Formal Shoes,Kestrel,Beige,8,256.79,SEL10147,4.5,36
+PRD81337,Electronics,Smartphones,Nimbus,Grey,,2492.65,SEL10151,3.2,86
+PRD81338,Baby & Kids,Nappies,Aurora,Olive,XL,130.37,SEL10194,3.6,35
+PRD81339,Footwear,Sneakers,Solace,Olive,12,741.4,SEL00001,3.5,28
+PRD81340,Home & Kitchen,Decor,Aurora,Pink,,1567.91,SEL10148,4.1,152
+PRD81341,Home & Kitchen,Storage,Savanna,Navy,,227.5,SEL00001,3.3,36
+PRD81342,Electronics,Laptops,Kestrel,Pink,,696.79,SEL10136,4.0,47
+PRD81343,Toys & Games,Outdoor Toys,Kestrel,Green,,574.5,SEL00001,4.3,80
+PRD81344,Apparel,Activewear,Volt,Navy,M,505.31,SEL10077,4.1,5
+PRD81345,Apparel,Outerwear,Ridgeline,Cream,XL,918.71,SEL10093,3.2,387
+PRD81346,Electronics,Audio,Aurora,Green,,621.43,SEL00001,3.7,79
+PRD81347,Sports & Outdoor,Camping,Solace,Pink,,300.1,SEL10026,3.9,18
+PRD81348,Books & Media,Textbooks,Aurora,Cream,,293.24,SEL10210,4.5,9
+PRD81349,Books & Media,Non-Fiction,Petal & Pine,Green,,105.14,SEL00001,4.1,8
+PRD81350,Footwear,Slippers,Petal & Pine,Olive,12,473.41,SEL00001,3.8,86
+PRD81351,Sports & Outdoor,Fitness Equipment,Nordveld,Charcoal,,2028.34,SEL00001,4.3,0
+PRD81352,Footwear,Formal Shoes,Terra,Brown,8,655.06,SEL10208,3.3,24
+PRD81353,Apparel,Women's Dresses,Aurora,White,M,1002.58,SEL00001,4.1,110
+PRD81354,Electronics,Laptops,Lumo,Charcoal,,1667.96,SEL00001,3.7,80
+PRD81355,Toys & Games,Puzzles,Aurora,Brown,,109.4,SEL10181,4.0,24
+PRD81356,Apparel,Swimwear,Nordveld,Blue,S,232.09,SEL00001,3.3,13
+PRD81357,Toys & Games,Puzzles,Aurora,Blue,,227.95,SEL10194,3.4,12
+PRD81358,Electronics,Accessories,Mzansi Made,Pink,,5356.55,SEL10188,4.4,22
+PRD81359,Apparel,Men's Trousers,Ironbark,Cream,S,568.13,SEL10184,3.3,18
+PRD81360,Baby & Kids,Nursery,Petal & Pine,Brown,S,188.26,SEL00001,3.7,4
+PRD81361,Electronics,Laptops,Nimbus,White,,1140.16,SEL10036,3.2,20
+PRD81362,Sports & Outdoor,Cycling,Ridgeline,Beige,,134.23,SEL00001,4.2,20
+PRD81363,Baby & Kids,Nursery,Kestrel,Cream,XL,316.8,SEL10076,3.7,15
+PRD81364,Health,Personal Care,Volt,Burgundy,,43.38,SEL10066,3.2,9
+PRD81365,Baby & Kids,Nappies,Aurora,Charcoal,L,1642.35,SEL00001,3.9,4
+PRD81366,Home & Kitchen,Bedding,Petal & Pine,Charcoal,,479.65,SEL00001,3.6,12
+PRD81367,Home & Kitchen,Bedding,Kestrel,Brown,,2386.24,SEL10081,4.4,34
+PRD81368,Apparel,Women's Tops,Terra,Black,XL,178.13,SEL10193,4.4,8
+PRD81369,Apparel,Women's Tops,Solace,Charcoal,XXL,430.81,SEL10009,4.0,6
+PRD81370,Footwear,Boots,Kestrel,Charcoal,12,319.52,SEL10018,3.4,33
+PRD81371,Beauty,Skincare,Terra,Green,,95.04,SEL10135,4.0,32
+PRD81372,Footwear,Sandals,Terra,Olive,4,1182.09,SEL00001,3.4,108
+PRD81373,Electronics,Headphones,Aurora,Blue,,1142.77,SEL10159,4.5,527
+PRD81374,Health,Medical Devices,Copperfield,Multi,,185.28,SEL10125,2.6,4
+PRD81375,Home & Kitchen,Storage,Volt,Black,,944.63,SEL10038,4.2,250
+PRD81376,Beauty,Skincare,Kestrel,Red,,614.34,SEL10030,4.5,19
+PRD81377,Beauty,Fragrance,Aurora,Cream,,192.61,SEL00001,4.9,521
+PRD81378,Sports & Outdoor,Fitness Equipment,Mzansi Made,Beige,,716.83,SEL10000,3.9,25
+PRD81379,Home & Kitchen,Decor,Bantu,Red,,690.55,SEL10204,4.0,20
+PRD81380,Home & Kitchen,Cookware,Ridgeline,White,,318.98,SEL10167,4.1,250
+PRD81381,Electronics,Cameras,Kestrel,Black,,3185.09,SEL10053,3.1,5
+PRD81382,Sports & Outdoor,Team Sports,Mzansi Made,Multi,,321.51,SEL10201,4.5,76
+PRD81383,Baby & Kids,Nursery,Savanna,Navy,L,1419.92,SEL00001,4.6,38
+PRD81384,Apparel,Women's Dresses,Volt,White,XL,907.19,SEL10086,3.8,12
+PRD81385,Sports & Outdoor,Fitness Equipment,Ridgeline,Pink,,844.1,SEL10173,4.4,10
+PRD81386,Baby & Kids,Nappies,Aurora,Green,S,215.98,SEL10182,3.3,22
+PRD81387,Footwear,Slippers,Terra,Burgundy,11,1402.34,SEL10013,4.4,28
+PRD81388,Electronics,Laptops,Volt,Red,,3305.69,SEL10145,3.7,17
+PRD81389,Home & Kitchen,Storage,Kestrel,Navy,,719.38,SEL10132,4.4,78
+PRD81390,Home & Kitchen,Cookware,Lumo,Olive,,1250.17,SEL00001,4.5,8
+PRD81391,Beauty,Skincare,Lumo,Blue,,214.67,SEL10175,4.4,7
+PRD81392,Apparel,Women's Dresses,Savanna,Navy,XL,192.54,SEL10180,3.6,4
+PRD81393,Baby & Kids,Nursery,Terra,Burgundy,XXL,932.71,SEL10167,4.0,38
+PRD81394,Footwear,Slippers,Terra,Green,7,1767.65,SEL10209,3.9,20
+PRD81395,Footwear,Sneakers,Nordveld,Beige,9,1537.26,SEL10103,4.2,7
+PRD81396,Electronics,Laptops,Ironbark,Pink,,1063.31,SEL10033,3.3,38
+PRD81397,Electronics,Smartwatches,Aurora,Olive,,2779.57,SEL10174,4.2,3
+PRD81398,Apparel,Activewear,Ironbark,Burgundy,L,962.54,SEL10182,4.2,230
+PRD81399,Baby & Kids,Feeding,Savanna,Black,M,111.41,SEL10074,3.9,63
+PRD81400,Books & Media,Textbooks,Solace,Black,,176.37,SEL10169,4.9,2
+PRD81401,Baby & Kids,Feeding,Kestrel,Beige,XXL,299.27,SEL00001,3.6,8
+PRD81402,Apparel,Women's Tops,Aurora,Beige,XXL,362.5,SEL10182,3.7,27
+PRD81403,Beauty,Fragrance,Petal & Pine,Brown,,458.6,SEL00001,3.7,243
+PRD81404,Sports & Outdoor,Fitness Equipment,Terra,Charcoal,,585.53,SEL10005,4.5,47
+PRD81405,Toys & Games,Outdoor Toys,Bantu,Multi,,295.01,SEL10031,3.6,59
+PRD81406,Electronics,Headphones,Nordveld,Red,,7608.85,SEL10122,3.9,2
+PRD81407,Beauty,Fragrance,Savanna,Green,,624.52,SEL00001,5.0,17
+PRD81408,Electronics,Tablets,Petal & Pine,Burgundy,,1612.0,SEL10202,3.4,533
+PRD81409,Beauty,Skincare,Terra,Grey,,417.24,SEL10174,4.1,6
+PRD81410,Footwear,Sneakers,Solace,Navy,12,646.16,SEL10147,3.7,788
+PRD81411,Footwear,Sneakers,Ironbark,Charcoal,8,358.51,SEL10079,4.3,180
+PRD81412,Apparel,Men's Trousers,Solace,Cream,XL,249.18,SEL10069,3.6,1275
+PRD81413,Health,Supplements,Terra,Grey,,104.43,SEL10195,4.3,316
+PRD81414,Baby & Kids,Baby Clothing,Terra,Black,XXL,106.86,SEL10066,4.1,23
+PRD81415,Books & Media,Textbooks,Ridgeline,Beige,,227.48,SEL10123,3.5,71
+PRD81416,Electronics,Smartphones,Ironbark,Navy,,1887.14,SEL10152,4.3,14
+PRD81417,Footwear,Sneakers,Aurora,Olive,6,531.46,SEL10178,4.2,623
+PRD81418,Apparel,Men's Shirts,Terra,Olive,L,299.74,SEL00001,4.2,42
+PRD81419,Footwear,Sandals,Lumo,White,11,825.56,SEL10002,2.5,37
+PRD81420,Books & Media,Textbooks,Terra,Red,,183.06,SEL10107,4.4,141
+PRD81421,Electronics,Tablets,Ridgeline,White,,2635.21,SEL10139,5.0,272
+PRD81422,Beauty,Makeup,Lumo,Black,,302.48,SEL10208,3.8,130
+PRD81423,Apparel,Outerwear,Solace,Blue,L,388.33,SEL10122,4.8,41
+PRD81424,Electronics,Tablets,Aurora,Beige,,518.04,SEL10021,3.2,31
+PRD81425,Sports & Outdoor,Camping,Petal & Pine,Charcoal,,129.51,SEL10053,3.2,28
+PRD81426,Sports & Outdoor,Camping,Petal & Pine,Olive,,368.39,SEL10147,4.1,16
+PRD81427,Toys & Games,Puzzles,Aurora,Charcoal,,427.4,SEL10171,3.8,31
+PRD81428,Home & Kitchen,Small Appliances,Nordveld,Grey,,661.51,SEL00001,4.1,80
+PRD81429,Baby & Kids,Nappies,Aurora,Brown,XS,213.34,SEL10159,4.1,124
+PRD81430,Beauty,Makeup,Copperfield,Burgundy,,129.7,SEL10093,4.8,14
+PRD81431,Home & Kitchen,Bedding,Terra,Burgundy,,180.14,SEL00001,3.9,149
+PRD81432,Electronics,Accessories,Kestrel,Navy,,4054.39,SEL10119,4.0,38
+PRD81433,Apparel,Knitwear,Copperfield,Red,XXL,958.27,SEL10203,3.6,181
+PRD81434,Toys & Games,Board Games,Solace,Burgundy,,259.64,SEL00001,4.3,1
+PRD81435,Books & Media,Music & Film,Savanna,White,,190.05,SEL10002,3.9,8
+PRD81436,Apparel,Underwear,Copperfield,Olive,XS,1203.86,SEL10004,3.5,134
+PRD81437,Apparel,Outerwear,Ridgeline,Navy,XS,745.41,SEL10079,2.8,11
+PRD81438,Toys & Games,Educational Toys,Nordveld,Beige,,1247.26,SEL10108,4.0,42
+PRD81439,Sports & Outdoor,Camping,Ironbark,Navy,,383.02,SEL10201,3.9,14
+PRD81440,Books & Media,Music & Film,Ironbark,Burgundy,,595.29,SEL10193,4.4,7
+PRD81441,Baby & Kids,Feeding,Nordveld,White,L,85.1,SEL10102,3.6,4668
+PRD81442,Apparel,Swimwear,Ironbark,Red,S,309.4,SEL00001,4.4,429
+PRD81443,Home & Kitchen,Storage,Mzansi Made,Black,,458.94,SEL10191,5.0,39
+PRD81444,Home & Kitchen,Bedding,Volt,Brown,,529.57,SEL10018,3.7,1
+PRD81445,Sports & Outdoor,Camping,Copperfield,Olive,,343.21,SEL10122,4.2,18
+PRD81446,Beauty,Fragrance,Solace,Charcoal,,327.86,SEL10168,3.9,74
+PRD81447,Apparel,Men's Trousers,Petal & Pine,Red,XS,202.36,SEL10018,4.2,134
+PRD81448,Apparel,Women's Dresses,Aurora,Pink,S,664.07,SEL10199,4.1,32
+PRD81449,Home & Kitchen,Small Appliances,Lumo,Cream,,1025.41,SEL10014,3.6,12
+PRD81450,Toys & Games,Outdoor Toys,Bantu,White,,269.43,SEL00001,4.6,1
+PRD81451,Toys & Games,Educational Toys,Aurora,Beige,,1171.42,SEL10123,3.8,218
+PRD81452,Books & Media,Non-Fiction,Volt,Olive,,285.74,SEL10044,3.5,46
+PRD81453,Apparel,Men's Shirts,Petal & Pine,Olive,L,180.19,SEL10102,3.9,83
+PRD81454,Apparel,Swimwear,Terra,Charcoal,XS,527.56,SEL00001,3.5,36
+PRD81455,Electronics,Headphones,Petal & Pine,Multi,,410.88,SEL00001,4.2,13
+PRD81456,Apparel,Knitwear,Savanna,Grey,S,1259.96,SEL10038,2.7,141
+PRD81457,Sports & Outdoor,Cycling,Solace,Red,,637.9,SEL10173,3.5,59
+PRD81458,Home & Kitchen,Bedding,Mzansi Made,Beige,,3275.96,SEL10207,3.3,44
+PRD81459,Apparel,Denim,Volt,Charcoal,XXL,306.78,SEL10012,4.3,1
+PRD81460,Footwear,Sandals,Copperfield,Cream,12,442.27,SEL10123,3.5,71
+PRD81461,Toys & Games,Board Games,Aurora,Red,,513.36,SEL10055,3.4,8
+PRD81462,Sports & Outdoor,Fitness Equipment,Ridgeline,Multi,,422.8,SEL00001,3.8,35
+PRD81463,Apparel,Outerwear,Solace,Olive,XS,324.84,SEL10011,4.3,18
+PRD81464,Electronics,Laptops,Lumo,Charcoal,,1414.86,SEL10052,4.4,26
+PRD81465,Sports & Outdoor,Cycling,Terra,Charcoal,,1531.4,SEL10157,5.0,32
+PRD81466,Home & Kitchen,Small Appliances,Copperfield,Blue,,158.01,SEL10167,4.2,8
+PRD81467,Health,Personal Care,Lumo,Grey,,337.92,SEL10189,4.4,6
+PRD81468,Electronics,Cameras,Volt,Red,,2912.43,SEL10173,5.0,37
+PRD81469,Toys & Games,Puzzles,Ironbark,Beige,,112.12,SEL10038,3.9,73
+PRD81470,Home & Kitchen,Cookware,Mzansi Made,Beige,,404.66,SEL00001,4.0,170
+PRD81471,Beauty,Fragrance,Ridgeline,Beige,,354.6,SEL10057,3.8,5
+PRD81472,Electronics,Tablets,Petal & Pine,Navy,,957.83,SEL00001,5.0,32
+PRD81473,Baby & Kids,Nappies,Volt,Cream,XL,306.15,SEL10053,3.7,10
+PRD81474,Apparel,Denim,Mzansi Made,Cream,S,1599.5,SEL10145,3.9,30
+PRD81475,Apparel,Men's Shirts,Aurora,Red,XL,404.94,SEL00001,4.9,52
+PRD81476,Beauty,Makeup,Bantu,Black,,144.32,SEL00001,3.7,53
+PRD81477,Books & Media,Textbooks,Bantu,Charcoal,,161.53,SEL10014,3.9,43
+PRD81478,Apparel,Men's Trousers,Terra,Grey,S,736.11,SEL00001,3.7,25
+PRD81479,Home & Kitchen,Cookware,Mzansi Made,Red,,1827.1,SEL00001,4.8,35
+PRD81480,Footwear,Boots,Nimbus,Pink,12,1254.7,SEL00001,4.2,22
+PRD81481,Baby & Kids,Baby Clothing,Lumo,Charcoal,L,776.73,SEL10038,3.5,22
+PRD81482,Apparel,Men's Trousers,Mzansi Made,Black,S,335.29,SEL10173,4.6,11
+PRD81483,Electronics,Smartwatches,Volt,Brown,,1892.21,SEL10064,4.1,73
+PRD81484,Apparel,Underwear,Aurora,Navy,XXL,246.22,SEL10170,4.4,123
+PRD81485,Apparel,Women's Dresses,Copperfield,Cream,S,1025.09,SEL10113,4.9,13
+PRD81486,Electronics,Headphones,Copperfield,Green,,3229.27,SEL10046,4.7,56
